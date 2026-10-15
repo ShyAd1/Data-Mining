@@ -1,0 +1,11 @@
+Yanan Shang, Tianqi Fu,
+Multimodal fusion: A study on speech-text emotion recognition with the integration of deep learning,
+Intelligent Systems with Applications,
+Volume 24,
+2024,
+200436,
+ISSN 2667-3053,
+https://doi.org/10.1016/j.iswa.2024.200436.
+(https://www.sciencedirect.com/science/article/pii/S2667305324001108)
+Abstract: Recognition of various human emotions holds significant value in numerous real-world scenarios. This paper focuses on the multimodal fusion of speech and text for emotion recognition. A 39-dimensional Mel-frequency cepstral coefficient (MFCC) was used as a feature for speech emotion. A 300-dimensional word vector obtained through the Glove algorithm was used as the feature for text emotion. The bidirectional gate recurrent unit (BiGRU) method in deep learning was added for extracting deep features. Subsequently, it was combined with the multi-head self-attention (MHA) mechanism and the improved sparrow search algorithm (ISSA) to obtain the ISSA-BiGRU-MHA method for emotion recognition. It was validated on the IEMOCAP and MELD datasets. It was found that MFCC and Glove word vectors exhibited superior recognition effects as features. Comparisons with the support vector machine and convolutional neural network methods revealed that the ISSA-BiGRU-MHA method demonstrated the highest weighted accuracy and unweighted accuracy. Multimodal fusion achieved weighted accuracies of 76.52 %, 71.84 %, 66.72 %, and 62.12 % on the IEMOCAP, MELD, MOSI, and MOSEI datasets, suggesting better performance than unimodal fusion. These results affirm the reliability of the multimodal fusion recognition method, showing its practical applicability.
+Keywords: Multimodal fusion; Deep learning; Glove model; BiGRU; Emotion recognition
