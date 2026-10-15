@@ -1,0 +1,62 @@
+﻿variable,clase,subtipo,rol,disponible_al_crear_pedido,descripcion,dtype_csv
+pedido_id,Identificador,—,ID,Sí,Llave del pedido,object
+cliente_id,Identificador,—,ID,Sí,Llave hacia clientes,object
+zona_id,Identificador,—,ID,Sí,Llave hacia el catálogo de zonas,object
+fecha_pedido,Fecha/hora,—,Predictor (derivado),Sí,Momento de creación del pedido,datetime64[ns]
+tipo_servicio,Categórica,Nominal,Predictor,Sí,Estándar / Exprés,object
+prioridad,Categórica,Ordinal (Baja<Media<Alta),Predictor,Sí,Prioridad del pedido,object
+distancia_km,Numérica,Continua,Predictor,Sí,Distancia de la entrega,float64
+numero_paquetes,Numérica,Discreta,Predictor,Sí,Paquetes del pedido,float64
+peso_kg,Numérica,Continua,Predictor,Sí,Peso total,float64
+tiempo_prometido_min,Numérica,Continua,Predictor,Sí,Tiempo prometido al cliente,float64
+tiempo_real_min,Numérica,Continua,Objetivo (regresión),No,Tiempo real de entrega,float64
+entrega_tardia,Categórica,Binaria,Objetivo (clasificación),No,1 si real - prometido > 5 min,int64
+fecha_entrega,Fecha/hora,—,Posterior,No,Momento de entrega,datetime64[ns]
+costo_final_mxn,Numérica,Continua,Posterior,No,Costo final cobrado,float64
+estado_entrega,Categórica,Nominal (binaria),Posterior,No,A tiempo / Tarde,object
+origen_registro,Categórica,Nominal,Metadato,Sí,Sistema que registró el pedido (ERP/SQL),object
+fecha_lectura_l0,Fecha/hora,—,Metadato,Sí (lectura _0),Instante de la lectura — lectura 0 (al crear el pedido),datetime64[ns]
+temperatura_c_l0,Numérica,Continua,Predictor,Sí (lectura _0),Temperatura ambiente — lectura 0 (al crear el pedido),float64
+indice_trafico_l0,Numérica,Continua,Predictor,Sí (lectura _0),Índice de tráfico 0–100 — lectura 0 (al crear el pedido),float64
+humedad_pct_l0,Numérica,Continua,Predictor,Sí (lectura _0),Humedad relativa — lectura 0 (al crear el pedido),float64
+lluvia_detectada_l0,Categórica,Binaria,Predictor,Sí (lectura _0),1 si llueve — lectura 0 (al crear el pedido),int64
+dispositivo_id_l0,Categórica,Nominal (alta cardinalidad),ID / Metadato,Sí (lectura _0),Sensor que midió — lectura 0 (al crear el pedido),object
+fecha_lectura_l1,Fecha/hora,—,Metadato,No (posterior al pedido),Instante de la lectura — lectura 1 (minutos después),datetime64[ns]
+temperatura_c_l1,Numérica,Continua,Predictor,No (posterior al pedido),Temperatura ambiente — lectura 1 (minutos después),float64
+indice_trafico_l1,Numérica,Continua,Predictor,No (posterior al pedido),Índice de tráfico 0–100 — lectura 1 (minutos después),float64
+humedad_pct_l1,Numérica,Continua,Predictor,No (posterior al pedido),Humedad relativa — lectura 1 (minutos después),float64
+lluvia_detectada_l1,Categórica,Binaria,Predictor,No (posterior al pedido),1 si llueve — lectura 1 (minutos después),int64
+dispositivo_id_l1,Categórica,Nominal (alta cardinalidad),ID / Metadato,No (posterior al pedido),Sensor que midió — lectura 1 (minutos después),object
+tipo_cliente,Categórica,Nominal,Predictor,Sí,Nuevo / Recurrente / Empresa,object
+antiguedad_meses,Numérica,Discreta,Predictor,Sí,Meses como cliente,float64
+satisfaccion_previa,Categórica,Ordinal (1–5),Predictor,Sí,Satisfacción histórica,float64
+canal_registro,Categórica,Nominal,Predictor,Sí,App / Tienda / Web,object
+zona,Categórica,Nominal,Predictor (redundante),Sí,Nombre de la zona,object
+distancia_centro_km,Numérica,Continua,Predictor,Sí,Distancia de la zona al centro,float64
+factor_trafico_historico,Numérica,Continua,Predictor,Sí,Factor histórico de tráfico,float64
+ultima_actualizacion,Fecha/hora,—,Metadato,—,Última actualización del catálogo,object
+puntuacion_entrega,Categórica,Ordinal (1–5),Posterior,No,Calificación postentrega,float64
+recomendaria,Categórica,Nominal (binaria),Posterior,No,Si / No,object
+comentario,Texto,—,Posterior,No,Comentario libre,object
+fecha_encuesta,Fecha/hora,—,Posterior,No,Fecha de la encuesta,datetime64[ns]
+fecha_pedido_reconstruida,Numérica,Binaria,Metadato,Sí,1 si la fecha del pedido se reconstruyó (fecha_entrega - tiempo_real_min),int64
+zona_fuera_catalogo,Categórica,Binaria,Predictor,Sí,1 si el zona_id no existe en el catálogo (Z99),int64
+alerta_climatica,Categórica,Nominal,Predictor,Sí,Alerta climática externa por fecha y zona,object
+hora_pedido,Numérica,Discreta,Predictor,Sí,Hora del día en que se creó el pedido,int32
+dia_semana,Numérica,Discreta,Metadato,Sí,Día de la semana (0=lunes),int32
+es_fin_semana,Categórica,Binaria,Predictor,Sí,1 si el pedido se creó en sábado o domingo,int64
+demora_min,Numérica,Continua,Posterior,No,tiempo_real_min - tiempo_prometido_min,float64
+distancia_km_imputado,Numérica,Binaria,Metadato,Sí,1 si distancia_km fue imputado,int64
+numero_paquetes_imputado,Numérica,Binaria,Metadato,Sí,1 si numero_paquetes fue imputado,int64
+peso_kg_imputado,Numérica,Binaria,Metadato,Sí,1 si peso_kg fue imputado,int64
+temperatura_c_l0_imputado,Numérica,Binaria,Metadato,Sí,1 si temperatura_c_l0 fue imputado,int64
+indice_trafico_l0_imputado,Numérica,Binaria,Metadato,Sí,1 si indice_trafico_l0 fue imputado,int64
+humedad_pct_l0_imputado,Numérica,Binaria,Metadato,Sí,1 si humedad_pct_l0 fue imputado,int64
+antiguedad_meses_imputado,Numérica,Binaria,Metadato,Sí,1 si antiguedad_meses fue imputado,int64
+satisfaccion_previa_imputado,Numérica,Binaria,Metadato,Sí,1 si satisfaccion_previa fue imputado,int64
+distancia_centro_km_imputado,Numérica,Binaria,Metadato,Sí,1 si distancia_centro_km fue imputado,int64
+factor_trafico_historico_imputado,Numérica,Binaria,Metadato,Sí,1 si factor_trafico_historico fue imputado,int64
+temperatura_c_l1_imputado,Numérica,Binaria,Metadato,Sí,1 si temperatura_c_l1 fue imputado,int64
+indice_trafico_l1_imputado,Numérica,Binaria,Metadato,Sí,1 si indice_trafico_l1 fue imputado,int64
+humedad_pct_l1_imputado,Numérica,Binaria,Metadato,Sí,1 si humedad_pct_l1 fue imputado,int64
+prioridad_imputado,Numérica,Binaria,Metadato,Sí,1 si prioridad fue imputado,int64

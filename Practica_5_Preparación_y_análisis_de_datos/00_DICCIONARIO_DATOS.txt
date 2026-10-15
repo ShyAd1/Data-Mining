@@ -1,0 +1,20 @@
+DICCIONARIO DE VARIABLES — paquete de práctica
+
+Pedidos: pedido_id(ID), cliente_id(ID), zona_id(ID), fecha_pedido(fecha), tipo_servicio(nominal), prioridad(ordinal: 
+Baja<Media<Alta), distancia_km(continua), numero_paquetes(discreta), peso_kg(continua), tiempo_prometido_min(continua, antes), 
+tiempo_real_min(continua, objetivo de regresión), entrega_tardia(binaria, objetivo clasificación), fecha_entrega(fecha posterior), 
+costo_final_mxn(continua posterior), estado_entrega(nominal posterior), origen_registro(nominal).
+
+Sensores: lectura_id(ID), pedido_id(ID), fecha_lectura(fecha), temperatura_c(continua), indice_trafico(continua), 
+humedad_pct(continua), lluvia_detectada(binaria), dispositivo_id(nominal).
+
+Clientes: cliente_id(ID), tipo_cliente(nominal), antiguedad_meses(discreta), satisfaccion_previa(ordinal 1-5), canal_registro(nominal).
+
+Zonas: zona_id(ID), zona(nominal), distancia_centro_km(continua), factor_trafico_historico(continua), ultima_actualizacion(fecha).
+
+Encuestas: pedido_id(ID), puntuacion_entrega(ordinal 1-5 posterior), recomendaria(nominal posterior), comentario(texto posterior), 
+fecha_encuesta(fecha posterior).
+
+Clima externo: fecha(fecha dd/mm/aaaa), zona_id(ID), alerta_climatica(nominal).
+
+Todos los datos son simulados. Algunas etiquetas y variables posteriores se incluyen deliberadamente para evaluar fuga de información.

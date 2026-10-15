@@ -1,0 +1,41 @@
+PRÁCTICA INTEGRADORA — UNIDAD 2: DATOS PARA MACHINE LEARNING
+
+Caso: empresa ficticia de entregas urbanas en la Ciudad de México.
+Datos: sintéticos para fines educativos; no describen operaciones reales.
+
+CONTEXTO
+La empresa quiere prever la demora (minutos), anticipar qué entregas llegarán tarde,
+identificar reglas operativas y agrupar perfiles de pedidos. La predicción debe realizarse
+AL MOMENTO DE CREAR EL PEDIDO. Cada archivo representa una fuente diferente.
+
+ARCHIVOS Y LLAVES
+01_pedidos_bd.csv: pedidos y resultados finales; llave pedido_id (con duplicados).
+02_lecturas_sensores.csv: dos lecturas por pedido; llave lectura_id y relación pedido_id.
+03_clientes_bd.csv: atributos del cliente; relación cliente_id.
+04_catalogo_zonas.csv: atributos por zona; relación zona_id.
+05_encuestas_postentrega.csv: encuesta después de entregar; relación pedido_id.
+06_reporte_externo_clima.txt: reporte externo delimitado por punto y coma; unión por fecha+zona_id.
+
+ACTIVIDADES / PRODUCTOS DE ENTREGA
+1. Fuentes: identifiquen formato, llave, granularidad, posibles errores y si la fuente está disponible al hacer el pedido.
+2. Tipos: clasifiquen al menos 15 campos en nominal, ordinal, discreto, continuo, fecha/hora, identificador y objetivo.
+3. Auditoría: evalúen exactitud, completitud, consistencia, actualidad, unicidad y validez. Midan número y porcentaje de anomalías; incluyan 2 ejemplos por criterio. No supongan que todo valor extremo es un error.
+4. GIGO: muestren DOS ejemplos concretos de cómo los defectos alteran estadísticas o predicciones.
+5. Integración: unan los datos por sus llaves y expliquen cómo evitan multiplicar pedidos por las varias lecturas de sensor. No borren registros sin justificar.
+6. Transformación: faltantes, formatos numéricos/fechas, normalización de categorías, detección y tratamiento de outliers, codificación, escalado y reducción de variables. Conserven bitácora antes/después.
+7. Selección: definan población, periodo, variables elegidas y descartadas. Justifiquen variables no disponibles al crear el pedido. Diferencien posibles fugas de información de variables válidas.
+8. Modelos: (a) regresión lineal para tiempo_real_min o demora; (b) árbol de clasificación para entrega_tardia; (c) 3 reglas SI–ENTONCES comprobadas con los datos; (d) agrupamiento K-Means u otro método justificado en variables previas a la entrega. Compare con una línea base.
+9. Evaluación: división entrenamiento/prueba, preprocesamiento aprendido SOLO con entrenamiento, MAE/RMSE para regresión, matriz de confusión y precision/recall/F1 para clasificación. Justifique métrica y revise desbalance.
+10. Ética: discutan riesgos de decisiones erróneas y posibles sesgos por zona y tipo de cliente. Incluyan al menos dos acciones de mitigación.
+
+ENTREGABLES
+- Notebook ejecutable con exploración, auditoría, limpieza, integración, modelos y resultados.
+- Un dataset limpio exportado a CSV, con diccionario de variables.
+- Informe de 3–5 páginas: hallazgos, decisiones de limpieza, tablas antes/después, resultados e interpretación.
+
+ADVERTENCIAS
+- 'entrega_tardia' es la etiqueta para clasificación; 'tiempo_real_min' es un resultado observado.
+- fecha_entrega, estado_entrega, costo_final_mxn y satisfacción postentrega contienen información posterior: evalúen fuga antes de usarlos como entradas.
+- 'tiempo_prometido_min' sí está disponible antes de la entrega.
+- Los IDs son llaves, no medidas numéricas predictivas.
+- Las mediciones de sensor son lecturas en distintos instantes: no confundan granularidad.
