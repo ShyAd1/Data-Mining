@@ -1,0 +1,977 @@
+﻿id_propiedad,fuente,portales_publicados,alcaldia,colonia,calle,precio_mxn,m2_construidos,precio_m2,recamaras,banos,relacion_banos_rec,latitud,longitud,dist_avenida_principal_m,dist_transporte_m
+GAM-CASAS-0001,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Nte.,Chiclayo 920,10300000.0,291.0,35395.19,3.0,3.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0002,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,13490000.0,300.0,44966.67,4.0,6.0,1.5,19.488,-99.128,458.45,485.77
+GAM-CASAS-0003,Propiedades.com,Propiedades.com,Gustavo A. Madero,Cuchilla del Tesoro,Ote. 9,4300000.0,190.0,22631.58,4.0,2.0,0.5,19.455,-99.058,1375.5,3181.19
+GAM-CASAS-0004,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Bonao #s-n,9650000.0,287.0,33623.69,6.0,4.0,0.67,19.481,-99.129,611.27,422.22
+GAM-CASAS-0005,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Se vende casa Natal #S/N,9900000.0,176.0,56250.0,3.0,3.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0006,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Arequipa #659,12700000.0,350.0,36285.71,5.0,5.0,1.0,19.481,-99.129,611.27,422.22
+GAM-CASAS-0007,Propiedades.com,Propiedades.com,Gustavo A. Madero,Acueducto de Guadalupe,De La Ribera 50,5800000.0,365.0,15890.41,8.0,4.0,0.5,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0008,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,2800000.0,120.0,23333.33,6.0,3.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0009,Propiedades.com,"Inmuebles24, Propiedades.com",Gustavo A. Madero,Nueva Vallejo,Nte. 27,5900000.0,207.0,28502.42,4.0,2.0,0.5,19.482,-99.142,385.18,335.8
+GAM-CASAS-0010,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,C. Guanábana 42,13400000.0,340.0,39411.76,3.0,3.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0011,Propiedades.com,Propiedades.com,Gustavo A. Madero,SN FELIPE,venta disponible en COLIMA 269,4284000.0,161.0,26608.7,2.0,3.0,1.5,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0012,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,Sin calle,13000000.0,150.0,86666.67,,3.0,,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0013,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San Felipe de Jesús,Sin calle,6000000.0,440.0,13636.36,3.0,3.0,1.0,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0014,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial Zacatenco,Sin calle,9500000.0,230.0,41304.35,4.0,3.0,0.75,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0015,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,Martha 31,8600000.0,231.0,37229.44,6.0,1.0,0.17,19.469,-99.117,742.24,779.41
+GAM-CASAS-0016,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #s/n,Sin calle,6500000.0,386.0,16839.38,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0017,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Felipe de Jesús,Apatzingán 2713,5800000.0,380.0,15263.16,5.0,3.0,0.6,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0018,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Salvador Díaz Mirón,Nte. 74  #7910,3900000.0,206.0,18932.04,4.0,3.0,0.75,19.481,-99.101,950.0,596.36
+GAM-CASAS-0019,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,Guantánamo,11750000.0,200.0,58750.0,3.0,2.0,0.67,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0020,Propiedades.com,Propiedades.com,Gustavo A. Madero,Pradera I Secc,Sierra Madre Oriental 140,2160000.0,146.0,14794.52,3.0,2.0,0.67,19.482,-99.088,1833.85,1757.9
+GAM-CASAS-0021,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón II Sección,Se vende casa Calle 553,6176075.0,248.0,24903.53,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0022,Propiedades.com,Propiedades.com,Gustavo A. Madero,Chiclayo,Chiclayo,12500000.0,295.0,42372.88,4.0,2.0,0.5,19.488,-99.129,535.81,531.16
+GAM-CASAS-0023,Propiedades.com,Propiedades.com,Gustavo A. Madero,Campestre Aragón,Camino del Éxito 44 #44,4380000.0,167.0,26227.54,4.0,2.0,0.5,19.472,-99.075,1305.73,2670.81
+GAM-CASAS-0024,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,25000000.0,492.0,50813.01,5.0,4.0,0.8,19.488,-99.128,458.45,485.77
+GAM-CASAS-0025,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Pradera 1a Sección,Col. La Pradera 1a Sección,1241000.0,61.0,20344.26,3.0,1.0,0.33,19.482,-99.088,1833.85,1757.9
+GAM-CASAS-0026,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista,Sin calle,29500000.0,700.0,42142.86,8.0,6.0,0.75,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0027,Propiedades.com,Propiedades.com,Gustavo A. Madero,Santa Maria Ticoman,Sin calle,2000000.0,170.0,11764.71,5.0,5.0,1.0,19.512,-99.135,938.34,1932.53
+GAM-CASAS-0028,Propiedades.com,Propiedades.com,Gustavo A. Madero,Atzacoalco CTM,Ret. Francisco Yepes 16,857922.0,140.0,6128.01,3.0,2.0,0.67,19.495,-99.092,2518.37,1689.04
+GAM-CASAS-0029,Propiedades.com,Propiedades.com,Gustavo A. Madero,C.T.M. El Risco,Ricardo González Rico #23,3390000.0,150.0,22600.0,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0030,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #16,Sin calle,1733972.0,80.0,21674.65,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0031,Propiedades.com,Propiedades.com,Gustavo A. Madero,Pradera I Secc,Sierra Madre Oriental 140,1789684.0,146.0,12258.11,3.0,2.0,0.67,19.482,-99.088,1833.85,1757.9
+GAM-CASAS-0032,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Nte.,Lindavista Nte.,14000000.0,379.0,36939.31,4.0,2.0,0.5,19.488,-99.128,458.45,485.77
+GAM-CASAS-0033,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Joyita,Venta  Norte 0,7664000.0,263.0,29140.68,8.0,3.0,0.38,19.482,-99.115,544.73,340.03
+GAM-CASAS-0034,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Sin calle,9000000.0,389.0,23136.25,7.0,3.0,0.43,19.475,-99.118,333.58,678.37
+GAM-CASAS-0035,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,Se vende casa calzada de Guadalupe #0,1092540.0,65.0,16808.31,2.0,1.0,0.5,19.469,-99.117,742.24,779.41
+GAM-CASAS-0036,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,Alicia 112B,5444358.0,345.0,15780.75,4.0,2.0,0.5,19.469,-99.117,742.24,779.41
+GAM-CASAS-0037,Propiedades.com,Propiedades.com,Gustavo A. Madero,Vallejo,Calle Wagner 300,6800000.0,360.0,18888.89,8.0,7.0,0.88,19.472,-99.141,983.44,502.67
+GAM-CASAS-0038,Propiedades.com,Propiedades.com,Gustavo A. Madero,Atzacoalco CTM,Roberto Gómez Muñoz 15,1733972.0,92.0,18847.52,3.0,2.0,0.67,19.495,-99.092,2518.37,1689.04
+GAM-CASAS-0039,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón VI Sección,C 1509 al 100 #161,4084000.0,228.0,17912.28,,2.0,,19.458,-99.082,839.51,973.46
+GAM-CASAS-0040,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,Venta  CALLE 317,3990000.0,278.0,14352.52,3.0,3.0,1.0,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0041,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón VI Secc,Venta  Av 499 133,3308000.0,251.0,13179.28,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0042,Propiedades.com,Propiedades.com,Gustavo A. Madero,Aragón la Villa,Sin calle,20000000.0,1200.0,16666.67,28.0,28.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0043,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Providencia,Sin calle,2928000.0,217.0,13493.09,4.0,2.0,0.5,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0044,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lt 7,325 916,4261000.0,205.0,20785.37,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0045,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Felipe de Jesús,Sin calle,4284000.0,161.0,26608.7,3.0,4.0,1.33,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0046,Propiedades.com,Propiedades.com,Gustavo A. Madero,Zona Escolar,Sin calle,4500000.0,387.0,11627.91,4.0,3.0,0.75,19.542,-99.135,2661.31,1779.12
+GAM-CASAS-0047,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Progreso Nacional,Se vende casa calle 15,4316783.0,343.0,12585.37,6.0,2.0,0.33,19.522,-99.151,666.99,2364.87
+GAM-CASAS-0048,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Huancayo #840,8600000.0,273.0,31501.83,3.0,2.0,0.67,19.481,-99.129,611.27,422.22
+GAM-CASAS-0049,Propiedades.com,Propiedades.com,Gustavo A. Madero,Vallejo,Se vende casa JUAN SEBASTIAN BACH #244,6985000.0,383.0,18237.6,4.0,3.0,0.75,19.472,-99.141,983.44,502.67
+GAM-CASAS-0050,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Guadalupe Proletaria,Calle tres,3700000.0,186.0,19892.47,4.0,3.0,0.75,19.525,-99.148,638.72,2693.85
+GAM-CASAS-0051,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,Sin calle,5200000.0,123.0,42276.42,2.0,1.0,0.5,19.469,-99.117,742.24,779.41
+GAM-CASAS-0052,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,Caracas #168,17000000.0,325.0,52307.69,5.0,4.0,0.8,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0053,Propiedades.com,Propiedades.com,Gustavo A. Madero,Valle del Tepeyac,Avenida Fortuna #667,6600000.0,241.0,27385.89,4.0,2.0,0.5,19.495,-99.138,638.75,877.62
+GAM-CASAS-0054,Propiedades.com,Propiedades.com,Gustavo A. Madero,Salvador Díaz Mirón,Norte 74 #8005,4350000.0,226.0,19247.79,4.0,3.0,0.75,19.481,-99.101,950.0,596.36
+GAM-CASAS-0055,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Casas Alemán,Puerto Cozumel #287,4150000.0,163.0,25460.12,2.0,1.0,0.5,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0056,Propiedades.com,Propiedades.com,Gustavo A. Madero,Acueducto de Guadalupe,Calle de la Ola,5838363.0,229.0,25495.03,3.0,2.0,0.67,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0057,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,OTILIA #214,9500000.0,349.0,27220.63,5.0,3.0,0.6,19.469,-99.117,742.24,779.41
+GAM-CASAS-0058,Propiedades.com,Propiedades.com,Gustavo A. Madero,Gertrudis Sánchez 2a Sección,Norte 82-A 6100,6900000.0,265.0,26037.74,3.0,2.0,0.67,19.468,-99.098,305.65,1218.72
+GAM-CASAS-0059,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Victoria,Sin calle,6222234.0,390.0,15954.45,4.0,3.0,0.75,19.485,-99.102,1006.18,253.79
+GAM-CASAS-0060,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Venta  Puno #751,11000000.0,236.0,46610.17,4.0,3.0,0.75,19.481,-99.129,611.27,422.22
+GAM-CASAS-0061,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Se vende casa Sin nombre de calle,8200000.0,330.0,24848.48,3.0,4.0,1.33,19.488,-99.128,458.45,485.77
+GAM-CASAS-0062,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,Sin calle,1040000.0,65.0,16000.0,2.0,1.0,0.5,19.469,-99.117,742.24,779.41
+GAM-CASAS-0063,Propiedades.com,Propiedades.com,Gustavo A. Madero,Mártires de Río Blanco,Norte 58,3706450.0,120.0,30887.08,3.0,2.0,0.67,19.465,-99.12,1100.18,857.97
+GAM-CASAS-0064,Propiedades.com,Propiedades.com,Gustavo A. Madero,Zona Escolar,MAESTRO RURAL #114,3200000.0,126.0,25396.83,4.0,1.0,0.25,19.542,-99.135,2661.31,1779.12
+GAM-CASAS-0065,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Nte.,Pujato 39,8600000.0,190.0,45263.16,3.0,2.0,0.67,19.488,-99.128,458.45,485.77
+GAM-CASAS-0066,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,venta disponible en managua #974,25000000.0,581.0,43029.26,4.0,4.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0067,Propiedades.com,Propiedades.com,Gustavo A. Madero,Providencia,Sin calle,3600000.0,233.0,15450.64,3.0,2.0,0.67,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0068,Propiedades.com,Propiedades.com,Gustavo A. Madero,Magdalena de las Salinas,Sin calle,4600000.0,204.0,22549.02,7.0,3.0,0.43,19.482,-99.14,569.37,322.44
+GAM-CASAS-0069,Propiedades.com,Propiedades.com,Gustavo A. Madero,Loma La Palma,MARIA GREVER #126,4500000.0,136.0,33088.24,6.0,3.0,0.5,19.552,-99.138,3633.06,737.51
+GAM-CASAS-0070,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Se vende casa Caracas #143,17000000.0,325.0,52307.69,5.0,4.0,0.8,19.488,-99.128,458.45,485.77
+GAM-CASAS-0071,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,5635000.0,310.0,18177.42,4.0,3.0,0.75,19.488,-99.128,458.45,485.77
+GAM-CASAS-0072,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,C. 325 916,24445000.0,185.0,132135.14,3.0,2.0,0.67,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0073,Propiedades.com,"Inmuebles24, Propiedades.com",Gustavo A. Madero,Industrial,Excelsior 83,16000000.0,343.0,46647.23,4.0,2.0,0.5,19.475,-99.118,333.58,678.37
+GAM-CASAS-0074,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Felipe de Jesús,Atoyac #355,4495000.0,456.0,9857.46,6.0,2.0,0.33,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0075,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #20,Sin calle,4500000.0,174.0,25862.07,4.0,4.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0076,Propiedades.com,Propiedades.com,Gustavo A. Madero,Santiago Atepetlac,Sin calle,2300000.0,240.0,9583.33,3.0,2.0,0.67,19.512,-99.148,943.49,1251.72
+GAM-CASAS-0077,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,19900000.0,519.0,38342.97,5.0,3.0,0.6,19.488,-99.128,458.45,485.77
+GAM-CASAS-0078,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,22800000.0,750.0,30400.0,5.0,2.0,0.4,19.488,-99.128,458.45,485.77
+GAM-CASAS-0079,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Felipe de Jesús,Antigua Veracruz MZ36 LT4,4180000.0,355.0,11774.65,1.0,1.0,1.0,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0080,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,7000000.0,156.0,44871.79,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0081,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,7950000.0,288.0,27604.17,4.0,5.0,1.25,19.481,-99.129,611.27,422.22
+GAM-CASAS-0082,Propiedades.com,Propiedades.com,Gustavo A. Madero,Héroes de Chapultepec,Col. Héroes de Chapultepec,7500000.0,426.0,17605.63,8.0,3.0,0.38,19.475,-99.105,764.1,468.73
+GAM-CASAS-0083,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,706000.0,122.0,5786.89,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0084,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Bartolo Atepehuacan,Sin calle,10000000.0,203.0,49261.08,3.0,1.0,0.33,19.485,-99.135,555.97,258.6
+GAM-CASAS-0085,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #s/n,Sin calle,16000000.0,580.0,27586.21,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0086,Propiedades.com,Propiedades.com,Gustavo A. Madero,Providencia,VOLCAN DE SANTA MARIA  #38Int. LOTE 10 MZ 1 SECC A,2600000.0,215.0,12093.02,5.0,3.0,0.6,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0087,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,Martha #131Int. 131,8750000.0,231.0,37878.79,6.0,1.0,0.17,19.469,-99.117,742.24,779.41
+GAM-CASAS-0088,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,Sin calle,16800000.0,434.0,38709.68,4.0,4.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0089,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San Felipe de Jesús,Sin calle,2980000.0,120.0,24833.33,2.0,1.0,0.5,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0090,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,Graciela 149,1390000.0,154.0,9025.97,3.0,2.0,0.67,19.469,-99.117,742.24,779.41
+GAM-CASAS-0091,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón V Sección,San Juan de Aragón V Sección  #s/n,629000000.0,113.0,5566371.68,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0092,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,Sin calle,18700000.0,493.0,37931.03,3.0,3.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0093,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,4950000.0,181.0,27348.07,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0094,Propiedades.com,Propiedades.com,Gustavo A. Madero,Fernando Casas Alemán,Fernando Casas Alemán #s/n,2350000.0,95.0,24736.84,3.0,2.0,0.67,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0095,Propiedades.com,Propiedades.com,Gustavo A. Madero,Vasco de Quiroga,Fray Martin de Valencia 56,4670000.0,280.0,16678.57,4.0,2.0,0.5,19.492,-99.095,2062.25,1235.29
+GAM-CASAS-0096,Propiedades.com,Propiedades.com,Gustavo A. Madero,Valle del Tepeyac,C. Caldas 589,6600000.0,389.0,16966.58,8.0,4.0,0.5,19.495,-99.138,638.75,877.62
+GAM-CASAS-0097,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nte. 17,Nte. 17,710000.0,249.0,2851.41,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0098,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista,Natal 700,9800000.0,160.0,61250.0,3.0,2.0,0.67,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0099,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Insurgentes,Sin calle,6590000.0,160.0,41187.5,2.0,1.0,0.5,19.474,-99.121,544.74,846.0
+GAM-CASAS-0100,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial Zacatenco,Sin calle,16000000.0,500.0,32000.0,3.0,5.0,1.67,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0101,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #17,Sin calle,10050000.0,345.0,29130.43,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0102,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Magdalena de las Salinas,Norte 11 A,4230000.0,285.0,14842.11,5.0,5.0,1.0,19.482,-99.14,569.37,322.44
+GAM-CASAS-0103,Propiedades.com,Propiedades.com,Gustavo A. Madero,Salvador Díaz Mirón,Norte 66A,3495000.0,400.0,8737.5,6.0,6.0,1.0,19.481,-99.101,950.0,596.36
+GAM-CASAS-0104,Propiedades.com,Propiedades.com,Gustavo A. Madero,Casas Alemán,Se vende casa Puerto San Blas 103,4138410.0,200.0,20692.05,3.0,3.0,1.0,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0105,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Pedro el Chico,venta disponible en Nte 82-A,6500000.0,234.0,27777.78,2.0,1.0,0.5,19.472,-99.098,305.65,1112.64
+GAM-CASAS-0106,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tablas de San Agustín,Nte 58-B 5217,4500000.0,242.0,18595.04,4.0,2.0,0.5,19.472,-99.105,569.4,381.48
+GAM-CASAS-0107,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Laguna Ticoman,Bandera 274,5470000.0,439.0,12460.14,6.0,4.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0108,Propiedades.com,Propiedades.com,Gustavo A. Madero,entre Martha y Lidia,Venta  Av. Noé 63,12000000.0,640.0,18750.0,13.0,5.0,0.38,19.482,-99.115,544.73,340.03
+GAM-CASAS-0109,Propiedades.com,Propiedades.com,Gustavo A. Madero,Casas Alemán,Se vende casa Puerto Angel 117,2878000.0,95.0,30294.74,3.0,1.0,0.33,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0110,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Nte.,Lindavista Nte.,9000000.0,240.0,37500.0,3.0,2.0,0.67,19.488,-99.128,458.45,485.77
+GAM-CASAS-0111,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Villa de Aragón,C. Villa Cuauhtémoc 97,5000000.0,201.0,24875.62,5.0,3.0,0.6,19.452,-99.068,913.94,2108.5
+GAM-CASAS-0112,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón II Sección,venta disponible en Avenida 545,4799999.0,143.0,33566.43,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0113,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,12500000.0,504.0,24801.59,8.0,8.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0114,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Pedro Zacatenco,Se vende casa Paranagua 217,3500000.0,307.0,11400.65,4.0,2.0,0.5,19.508,-99.12,1099.93,1523.69
+GAM-CASAS-0115,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,Sin calle,1916000.0,212.0,9037.74,3.0,3.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0116,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Venta  Cda. de Otavalo 119,3629355.0,65.0,55836.23,4.0,3.0,0.75,19.481,-99.129,611.27,422.22
+GAM-CASAS-0117,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón VI Sección,San Juan de Aragón VI Secc  #s/n,2951160.0,251.0,11757.61,2.0,1.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0118,Propiedades.com,Propiedades.com,Gustavo A. Madero,Casas Alemán,Puerto Progreso 124,2189010.0,136.0,16095.66,3.0,2.0,0.67,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0119,Propiedades.com,Propiedades.com,Gustavo A. Madero,Planetario Lindavista,Sin calle,7290000.0,325.0,22430.77,3.0,3.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0120,Propiedades.com,Propiedades.com,Gustavo A. Madero,Zona Escolar,Venta  Eva Samano #2,3490000.0,238.0,14663.87,8.0,3.0,0.38,19.542,-99.135,2661.31,1779.12
+GAM-CASAS-0121,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,16500000.0,674.0,24480.71,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0122,Propiedades.com,Propiedades.com,Gustavo A. Madero,C.T.M. El Risco,Sin calle,2500000.0,120.0,20833.33,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0123,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,4390000.0,240.0,18291.67,5.0,2.0,0.4,19.482,-99.115,544.73,340.03
+GAM-CASAS-0124,Propiedades.com,Propiedades.com,Gustavo A. Madero,Zona Escolar,Rubén Darío Mz 74 Lt 17 #s/n,3900000.0,150.0,26000.0,4.0,2.0,0.5,19.542,-99.135,2661.31,1779.12
+GAM-CASAS-0125,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,Lidia 24,1520000.0,215.0,7069.77,1.0,1.0,1.0,19.469,-99.117,742.24,779.41
+GAM-CASAS-0126,Propiedades.com,Propiedades.com,Gustavo A. Madero,Unidad Profesional,Se vende casa Av. Luis Enrique Erro,10800000.0,308.0,35064.94,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0127,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Pedro el Chico,Calle Nte 92,10000000.0,419.0,23866.35,6.0,5.0,0.83,19.472,-99.098,305.65,1112.64
+GAM-CASAS-0128,Propiedades.com,Propiedades.com,Gustavo A. Madero,Mártires de Río Blanco,Ote. 85,1881744.0,305.0,6169.65,3.0,2.0,0.67,19.465,-99.12,1100.18,857.97
+GAM-CASAS-0129,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,5500000.0,310.0,17741.94,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0130,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial Zacatenco,Matagalpa 1013,7000000.0,299.0,23411.37,4.0,2.0,0.5,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0131,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,12000000.0,511.0,23483.37,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0132,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,17000000.0,400.0,42500.0,5.0,3.0,0.6,19.481,-99.129,611.27,422.22
+GAM-CASAS-0133,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón III Sección,Avenida 603,6643700.0,580.0,11454.66,7.0,4.0,0.57,19.458,-99.082,839.51,973.46
+GAM-CASAS-0134,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Chiclayo al 900 #920,10300000.0,291.0,35395.19,,3.0,,19.488,-99.128,458.45,485.77
+GAM-CASAS-0135,Propiedades.com,Propiedades.com,Gustavo A. Madero,C.T.M. El Risco,Venta  Francisco J Macin 19 #19,1840765.0,62.0,29689.76,3.0,1.0,0.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0136,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Felipe de Jesús,Sin calle,4627000.0,161.0,28739.13,,3.0,,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0137,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,8000000.0,225.0,35555.56,4.0,1.0,0.25,19.481,-99.129,611.27,422.22
+GAM-CASAS-0138,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Pedro El Chico,Sin calle,6250000.0,322.0,19409.94,6.0,4.0,0.67,19.472,-99.098,305.65,1112.64
+GAM-CASAS-0139,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Sin calle,8590000.0,389.0,22082.26,7.0,3.0,0.43,19.475,-99.118,333.58,678.37
+GAM-CASAS-0140,Propiedades.com,Propiedades.com,Gustavo A. Madero,Gertrudis Sánchez 2a Sección,Col. Gertrudis Sánchez 2a Sección,4150000.0,223.0,18609.87,5.0,2.0,0.4,19.468,-99.098,305.65,1218.72
+GAM-CASAS-0141,Propiedades.com,Propiedades.com,Gustavo A. Madero,Mártires de Río Blanco,Norte #58,1500000.0,240.0,6250.0,3.0,2.0,0.67,19.465,-99.12,1100.18,857.97
+GAM-CASAS-0142,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Felipe de Jesús,Sin calle,3580000.0,100.0,35800.0,2.0,2.0,1.0,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0143,Propiedades.com,Propiedades.com,Gustavo A. Madero,Cuchilla del Tesoro,Oriente 9,4300000.0,160.0,26875.0,4.0,2.0,0.5,19.455,-99.058,1375.5,3181.19
+GAM-CASAS-0144,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Bartolo Atepehuacan,Sololá 339,7900000.0,210.0,37619.05,4.0,2.0,0.5,19.485,-99.135,555.97,258.6
+GAM-CASAS-0145,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,Se vende casa calle 318 #51,2500000.0,148.0,16891.89,5.0,4.0,0.8,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0146,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Vallejo I Sección,Sin calle,8600000.0,270.0,31851.85,5.0,2.0,0.4,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0147,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,#736,7950000.0,288.0,27604.17,15.0,5.0,0.33,19.481,-99.129,611.27,422.22
+GAM-CASAS-0148,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Vallejo,Sin calle,4250000.0,178.0,23876.4,4.0,4.0,1.0,19.472,-99.141,983.44,502.67
+GAM-CASAS-0149,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Felipe de Jesús,Colima 269 #269,4284000.0,161.0,26608.7,2.0,3.0,1.5,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0150,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,7900000.0,371.0,21293.8,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0151,Propiedades.com,Propiedades.com,Gustavo A. Madero,Estrella,Sin calle,8500000.0,246.0,34552.85,4.0,4.0,1.0,19.479,-99.117,152.82,260.43
+GAM-CASAS-0152,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,General Felipe Berriozabal,Sin calle,2673000.0,129.0,20720.93,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0153,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón VI Secc,venta disponible en C. 1545 69,3390000.0,94.0,36063.83,3.0,1.0,0.33,19.458,-99.082,839.51,973.46
+GAM-CASAS-0154,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,Sin calle,22000000.0,400.0,55000.0,4.0,3.0,0.75,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0155,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón III Secc,Se vende casa Av. 611 133,5990000.0,30.0,199666.67,8.0,5.0,0.62,19.458,-99.082,839.51,973.46
+GAM-CASAS-0156,Propiedades.com,Propiedades.com,Gustavo A. Madero,Gabriel Hernández,Sin calle,3730000.0,196.0,19030.61,4.0,3.0,0.75,19.498,-99.105,1806.51,1413.58
+GAM-CASAS-0157,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial Zacatenco,Sin calle,7000000.0,171.0,40935.67,2.0,1.0,0.5,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0158,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Nte.,Lindavista Nte.,18800000.0,480.0,39166.67,3.0,3.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0159,Propiedades.com,Propiedades.com,Gustavo A. Madero,Mártires de Río Blanco,Nte 58 3814,5925011.0,331.0,17900.34,3.0,1.0,0.33,19.465,-99.12,1100.18,857.97
+GAM-CASAS-0160,Propiedades.com,Propiedades.com,Gustavo A. Madero,Se vende casa Col. Lindavista Norte,Sin calle,8885000.0,253.0,35118.58,3.0,1.0,0.33,19.488,-99.128,458.45,485.77
+GAM-CASAS-0161,Propiedades.com,Propiedades.com,Gustavo A. Madero,Constitución de La República,Se vende casa  Esquina  Para Remodelar en Constitución de la República #98,3900000.0,131.0,29770.99,4.0,2.0,0.5,19.48,-99.095,1229.3,1148.17
+GAM-CASAS-0162,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón V Sección,Se vende casa 604,5300000.0,192.0,27604.17,3.0,1.0,0.33,19.458,-99.082,839.51,973.46
+GAM-CASAS-0163,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,6800000.0,140.0,48571.43,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0164,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Nte.,Lindavista Nte.,9200000.0,250.0,36800.0,3.0,2.0,0.67,19.488,-99.128,458.45,485.77
+GAM-CASAS-0165,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ex Escuela de Tiro,Se vende casa Piastras 15,570000.0,300.0,1900.0,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0166,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,Sin calle,6950000.0,343.0,20262.39,11.0,6.0,0.55,19.483,-99.122,385.17,460.19
+GAM-CASAS-0167,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Cali #798,18000000.0,519.0,34682.08,5.0,3.0,0.6,19.488,-99.128,458.45,485.77
+GAM-CASAS-0168,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,17500000.0,589.0,29711.38,6.0,8.0,1.33,19.481,-99.129,611.27,422.22
+GAM-CASAS-0169,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Secc,Av. 527,6500000.0,375.0,17333.33,5.0,4.0,0.8,19.458,-99.082,839.51,973.46
+GAM-CASAS-0170,Propiedades.com,Propiedades.com,Gustavo A. Madero,Se vende casa Col. Planetario Lindavista,Sin calle,16890000.0,440.0,38386.36,4.0,4.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0171,Propiedades.com,Propiedades.com,Gustavo A. Madero,Aragón la Villa,Sin calle,8750000.0,285.0,30701.75,10.0,3.0,0.3,19.482,-99.115,544.73,340.03
+GAM-CASAS-0172,Propiedades.com,Propiedades.com,Gustavo A. Madero,Estrella,Sin calle,16000000.0,140.0,114285.71,7.0,7.0,1.0,19.479,-99.117,152.82,260.43
+GAM-CASAS-0173,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Valle del Tepeyac,Sin calle,6890000.0,208.0,33125.0,3.0,2.0,0.67,19.495,-99.138,638.75,877.62
+GAM-CASAS-0174,Propiedades.com,Propiedades.com,Gustavo A. Madero,Cuautepec de Madero,Sin calle,3690000.0,184.0,20054.35,4.0,2.0,0.5,19.548,-99.132,3357.24,1155.53
+GAM-CASAS-0175,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Salaverry #00,7490000.0,207.0,36183.57,3.0,2.0,0.67,19.488,-99.128,458.45,485.77
+GAM-CASAS-0176,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón II Secc,Av. 504,6500000.0,230.0,28260.87,5.0,4.0,0.8,19.458,-99.082,839.51,973.46
+GAM-CASAS-0177,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,14100000.0,379.0,37203.17,4.0,3.0,0.75,19.488,-99.128,458.45,485.77
+GAM-CASAS-0178,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial Elite,Pirámides de Egipto 208-casa 4,13500000.0,267.0,50561.8,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0179,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Sin calle,12500000.0,370.0,33783.78,7.0,3.0,0.43,19.475,-99.118,333.58,678.37
+GAM-CASAS-0180,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Casas Alemán,Sin calle,7800000.0,262.0,29770.99,5.0,4.0,0.8,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0181,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Pedro El Chico,Venta  Norte 84,6250000.0,322.0,19409.94,4.0,4.0,1.0,19.472,-99.098,305.65,1112.64
+GAM-CASAS-0182,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San Pedro El Chico,Sin calle,7490000.0,217.0,34516.13,4.0,2.0,0.5,19.472,-99.098,305.65,1112.64
+GAM-CASAS-0183,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,La Joya,Sin calle,6600000.0,347.0,19020.17,6.0,4.0,0.67,19.498,-99.128,806.1,1365.48
+GAM-CASAS-0184,Propiedades.com,Propiedades.com,Gustavo A. Madero,Constitución de La República,Sin calle,9490000.0,463.0,20496.76,3.0,3.0,1.0,19.48,-99.095,1229.3,1148.17
+GAM-CASAS-0185,Propiedades.com,Propiedades.com,Gustavo A. Madero,Novela Mexicana 2,Tierra Pródiga 38,2280000.0,160.0,14250.0,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0186,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Casas Alemán,Sin calle,2300000.0,134.0,17164.18,1.0,1.0,1.0,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0187,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Torres Lindavista,Sin calle,10800000.0,193.0,55958.55,4.0,3.0,0.75,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0188,Propiedades.com,Propiedades.com,Gustavo A. Madero,Acueducto de Guadalupe,Sin calle,1500000.0,58.0,25862.07,3.0,1.0,0.33,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0189,Propiedades.com,Propiedades.com,Gustavo A. Madero,Delegación Política Gustavo A Madero,Sin calle,5400000.0,192.0,28125.0,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0190,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #901,Sin calle,10850000.0,363.0,29889.81,4.0,4.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0191,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,13000000.0,295.0,44067.8,4.0,2.0,0.5,19.488,-99.128,458.45,485.77
+GAM-CASAS-0192,Propiedades.com,Propiedades.com,Gustavo A. Madero,Riobamba,Sin calle,30000000.0,475.0,63157.89,3.0,2.0,0.67,19.486,-99.128,333.56,287.5
+GAM-CASAS-0193,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Nte.,Lindavista Nte.,6100000.0,220.0,27727.27,3.0,2.0,0.67,19.488,-99.128,458.45,485.77
+GAM-CASAS-0194,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Lindavista Norte,Se vende casa Chiclayo,9500000.0,300.0,31666.67,4.0,3.0,0.75,19.488,-99.128,458.45,485.77
+GAM-CASAS-0195,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,Sin calle,12500000.0,280.0,44642.86,4.0,4.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0196,Propiedades.com,Propiedades.com,Gustavo A. Madero,Cuautepec Barrio Alto,Col. Cuautepec Barrio Alto,5600000.0,350.0,16000.0,4.0,2.0,0.5,19.558,-99.129,3996.3,628.68
+GAM-CASAS-0197,Propiedades.com,"Inmuebles24, Propiedades.com",Gustavo A. Madero,Villa de Aragón,Sin calle,5338750.0,220.0,24267.05,5.0,4.0,0.8,19.452,-99.068,913.94,2108.5
+GAM-CASAS-0198,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Ticomán,Sin calle,6250000.0,272.0,22977.94,6.0,2.0,0.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0199,Propiedades.com,Propiedades.com,Gustavo A. Madero,General Felipe Berriozabal,Sin calle,2806650.0,130.0,21589.62,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0200,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,Sin calle,12500000.0,504.0,24801.59,6.0,3.0,0.5,19.469,-99.117,742.24,779.41
+GAM-CASAS-0201,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Venta  Pernambuco #731,12000000.0,450.0,26666.67,4.0,2.0,0.5,19.488,-99.128,458.45,485.77
+GAM-CASAS-0202,Propiedades.com,Propiedades.com,Gustavo A. Madero,C.T.M. El Risco,Sin calle,3649000.0,179.0,20385.47,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0203,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,Sin calle,27000000.0,450.0,60000.0,3.0,3.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0204,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Loma La Palma,Sin calle,3306000.0,127.0,26031.5,5.0,3.0,0.6,19.552,-99.138,3633.06,737.51
+GAM-CASAS-0205,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #s/n,Sin calle,5500000.0,148.0,37162.16,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0206,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Secc,Sin calle,7200000.0,185.0,38918.92,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0207,Propiedades.com,Propiedades.com,Gustavo A. Madero,Aragón la Villa,Sin calle,8749999.0,287.0,30487.8,10.0,3.0,0.3,19.482,-99.115,544.73,340.03
+GAM-CASAS-0208,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Se vende casa natal #699,9800000.0,160.0,61250.0,3.0,3.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0209,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Secc,Av. 531,4900000.0,320.0,15312.5,8.0,4.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0210,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón II Secc,Av. 557,7800000.0,300.0,26000.0,4.0,4.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0211,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #13,Sin calle,3700000.0,250.0,14800.0,5.0,2.0,0.4,19.482,-99.115,544.73,340.03
+GAM-CASAS-0212,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Bartolo Atepehuacan,Sin calle,11000000.0,347.0,31700.29,3.0,5.0,1.67,19.485,-99.135,555.97,258.6
+GAM-CASAS-0213,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,Sin calle,18550000.0,944.0,19650.42,7.0,5.0,0.71,19.458,-99.082,839.51,973.46
+GAM-CASAS-0214,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,6300000.0,487.0,12936.34,4.0,4.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0215,Propiedades.com,Propiedades.com,Gustavo A. Madero,Providencia,Sin calle,4200000.0,124.0,33870.97,2.0,1.0,0.5,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0216,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Vallejo,Nueva Vallejo II Cerca de Plaza Vía Vallejo e Instituto del Petroleo. #63,5900000.0,207.0,28502.42,10.0,2.0,0.2,19.482,-99.142,385.18,335.8
+GAM-CASAS-0217,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,25000000.0,492.0,50813.01,4.0,3.0,0.75,19.488,-99.128,458.45,485.77
+GAM-CASAS-0218,Propiedades.com,Propiedades.com,Gustavo A. Madero,Villa Gustavo A. Madero,Sin calle,33000000.0,350.0,94285.71,7.0,5.0,0.71,19.482,-99.115,544.73,340.03
+GAM-CASAS-0219,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial La Escalera,Sin calle,8050000.0,442.0,18212.67,7.0,7.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0220,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,9300000.0,380.0,24473.68,5.0,4.0,0.8,19.488,-99.128,458.45,485.77
+GAM-CASAS-0221,Propiedades.com,Propiedades.com,Gustavo A. Madero,Villa de Aragón,Sin calle,3260000.0,220.0,14818.18,3.0,2.0,0.67,19.452,-99.068,913.94,2108.5
+GAM-CASAS-0222,Propiedades.com,Propiedades.com,Gustavo A. Madero,Palmatitla,Sin calle,3900000.0,250.0,15600.0,6.0,4.0,0.67,19.562,-99.135,4722.07,444.78
+GAM-CASAS-0223,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,CUZCO #S/N,14700000.0,379.0,38786.28,4.0,3.0,0.75,19.488,-99.128,458.45,485.77
+GAM-CASAS-0224,Propiedades.com,Propiedades.com,Gustavo A. Madero,Chiclayo,Chiclayo,9500000.0,300.0,31666.67,4.0,4.0,1.0,19.488,-99.129,535.81,531.16
+GAM-CASAS-0225,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Providencia,Sin calle,545000.0,155.0,3516.13,4.0,3.0,0.75,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0226,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Jorge Negrete,Sin calle,7000000.0,156.0,44871.79,3.0,2.0,0.67,19.545,-99.141,2811.3,1576.34
+GAM-CASAS-0227,Propiedades.com,Propiedades.com,Gustavo A. Madero,Palmatitla,Sin calle,17200000.0,889.0,19347.58,5.0,6.0,1.2,19.562,-99.135,4722.07,444.78
+GAM-CASAS-0228,Propiedades.com,Propiedades.com,Gustavo A. Madero,Progreso Nacional,venta disponible en Sin nombre de calle #S/N,6600000.0,350.0,18857.14,6.0,6.0,1.0,19.522,-99.151,666.99,2364.87
+GAM-CASAS-0229,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Esmeralda,venta disponible en Unidad Habitacional la Esmeralda 2,2000000.0,94.0,21276.6,3.0,1.0,0.33,19.488,-99.082,2576.75,2367.21
+GAM-CASAS-0230,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,12000000.0,419.0,28639.62,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0231,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Torres Lindavista,Sin calle,11500000.0,200.0,57500.0,3.0,2.0,0.67,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0232,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,14700000.0,379.0,38786.28,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0233,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,29000000.0,645.0,44961.24,5.0,5.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0234,Propiedades.com,Propiedades.com,Gustavo A. Madero,Cuchilla del Tesoro,Oriente 9 #2,5450000.0,200.0,27250.0,5.0,2.0,0.4,19.455,-99.058,1375.5,3181.19
+GAM-CASAS-0235,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial Acueducto de Guadalupe,Sin calle,7800000.0,492.0,15853.66,4.0,3.0,0.75,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0236,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Nte.,Matanzas 940,8000000.0,240.0,33333.33,5.0,3.0,0.6,19.488,-99.128,458.45,485.77
+GAM-CASAS-0237,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San Juan de Aragón V Sección,venta disponible en Andador 647,3400000.0,150.0,22666.67,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0238,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San Juan de Aragón III Sección,Av 589 #S/N,4030000.0,224.0,17991.07,6.0,3.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0239,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial Zacatenco,Sin calle,9450000.0,369.0,25609.76,5.0,4.0,0.8,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0240,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,Sin calle,5290000.0,390.0,13564.1,6.0,6.0,1.0,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0241,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,Sin calle,7900000.0,297.0,26599.33,5.0,5.0,1.0,19.483,-99.122,385.17,460.19
+GAM-CASAS-0242,Propiedades.com,Propiedades.com,Gustavo A. Madero,Estrella,Sin calle,740000.0,170.0,4352.94,4.0,3.0,0.75,19.479,-99.117,152.82,260.43
+GAM-CASAS-0243,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Torres Lindavista,Sin calle,12700000.0,230.0,55217.39,3.0,2.0,0.67,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0244,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Pedro el Chico,Calle Nte 92,1260000.0,,,4.0,1.0,0.25,19.472,-99.098,305.65,1112.64
+GAM-CASAS-0245,Propiedades.com,Propiedades.com,Gustavo A. Madero,Constitución de La República,Gabino Ortiz #7,5000000.0,213.0,23474.18,3.0,1.0,0.33,19.48,-99.095,1229.3,1148.17
+GAM-CASAS-0246,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,CALLE 641,600000.0,110.0,5454.55,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0247,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,venta disponible en Calle 313,4900000.0,445.0,11011.24,8.0,7.0,0.88,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0248,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón VI Sección,1505 #44,969725.0,140.0,6926.61,4.0,4.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0249,Propiedades.com,Propiedades.com,Gustavo A. Madero,Planetario Lindavista,Sin calle,13690000.0,347.0,39452.45,3.0,5.0,1.67,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0250,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,27000000.0,709.0,38081.81,5.0,6.0,1.2,19.481,-99.129,611.27,422.22
+GAM-CASAS-0251,Propiedades.com,Propiedades.com,Gustavo A. Madero,Planetario Lindavista,Sin calle,12000000.0,419.0,28639.62,4.0,3.0,0.75,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0252,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,14000000.0,399.0,35087.72,4.0,4.0,1.0,19.481,-99.129,611.27,422.22
+GAM-CASAS-0253,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,8500000.0,250.0,34000.0,3.0,2.0,0.67,19.488,-99.128,458.45,485.77
+GAM-CASAS-0254,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Se vende casa C. Riobamba,Sin calle,30000000.0,520.0,57692.31,3.0,2.0,0.67,19.486,-99.128,333.56,287.5
+GAM-CASAS-0255,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón IV Sección,calle 1505 #65,887442.0,110.0,8067.65,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0256,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Sin calle,12500000.0,500.0,25000.0,3.0,2.0,0.67,19.475,-99.118,333.58,678.37
+GAM-CASAS-0257,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Nte.,Lindavista Nte.,9200000.0,190.0,48421.05,3.0,2.0,0.67,19.488,-99.128,458.45,485.77
+GAM-CASAS-0258,Propiedades.com,Propiedades.com,Gustavo A. Madero,C.T.M. Aragón,691,2750000.0,140.0,19642.86,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0259,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Benito Juárez,Los viñedos #1,1379000.0,70.0,19700.0,2.0,2.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0260,Propiedades.com,Propiedades.com,Gustavo A. Madero,Mártires de Río Blanco,Venta  NORTE 58 #0000,3137066.0,244.0,12856.83,4.0,4.0,1.0,19.465,-99.12,1100.18,857.97
+GAM-CASAS-0261,Propiedades.com,Propiedades.com,Gustavo A. Madero,Acueducto de Guadalupe,calle SC,4900000.0,317.0,15457.41,5.0,3.0,0.6,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0262,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Pradera,Sin calle,4550000.0,163.0,27914.11,4.0,2.0,0.5,19.482,-99.088,1833.85,1757.9
+GAM-CASAS-0263,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Sin calle,8900000.0,389.0,22879.18,7.0,3.0,0.43,19.475,-99.118,333.58,678.37
+GAM-CASAS-0264,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,ALICIA #00,6286000.0,324.0,19401.23,3.0,3.0,1.0,19.469,-99.117,742.24,779.41
+GAM-CASAS-0265,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Sección,Sin calle,8028000.0,262.0,30641.22,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0266,Propiedades.com,Propiedades.com,Gustavo A. Madero,C. T. M. Aragón,C. 685,5650000.0,685.0,8248.18,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0267,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,Unión #00,10190000.0,237.0,42995.78,4.0,5.0,1.25,19.483,-99.122,385.17,460.19
+GAM-CASAS-0268,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,11000000.0,276.0,39855.07,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0269,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,8800000.0,240.0,36666.67,3.0,3.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0270,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón II Secc,Av. 561 182,8400000.0,320.0,26250.0,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0271,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Cienfuegos #883,15000000.0,309.0,48543.69,4.0,3.0,0.75,19.488,-99.128,458.45,485.77
+GAM-CASAS-0272,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón II Sección,Sin calle,6700000.0,340.0,19705.88,4.0,3.0,0.75,19.458,-99.082,839.51,973.46
+GAM-CASAS-0273,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,14000000.0,298.0,46979.87,5.0,3.0,0.6,19.481,-99.129,611.27,422.22
+GAM-CASAS-0274,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ex Escuela de Tiro,Sin calle,2825000.0,120.0,23541.67,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0275,Propiedades.com,Propiedades.com,Gustavo A. Madero,Campestre Aragón,México 32 #32,725000.0,186.0,3897.85,,2.0,,19.472,-99.075,1305.73,2670.81
+GAM-CASAS-0276,Propiedades.com,Propiedades.com,Gustavo A. Madero,Gustavo A. Madero,Sin calle,6590000.0,257.0,25642.02,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0277,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,22800000.0,750.0,30400.0,5.0,2.0,0.4,19.481,-99.129,611.27,422.22
+GAM-CASAS-0278,Propiedades.com,Propiedades.com,Gustavo A. Madero,Estrella,venta disponible en malitzin #45,997000.0,300.0,3323.33,6.0,5.0,0.83,19.479,-99.117,152.82,260.43
+GAM-CASAS-0279,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista,Calz. Azcapotzalco - La Villa 1246,10000000.0,203.0,49261.08,3.0,1.0,0.33,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0280,Propiedades.com,Propiedades.com,Gustavo A. Madero,Oficinas O Departamentos EN Lindavista #732,Venta CON Potencial Para Consultorios,13800000.0,,,,4.0,,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0281,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,9000000.0,240.0,37500.0,3.0,3.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0282,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Joya,Sin calle,4350000.0,500.0,8700.0,3.0,,,19.498,-99.128,806.1,1365.48
+GAM-CASAS-0283,Propiedades.com,Propiedades.com,Gustavo A. Madero,Churubusco Tepeyac,OROYA #0,8450000.0,240.0,35208.33,4.0,5.0,1.25,19.488,-99.122,305.63,648.52
+GAM-CASAS-0284,Propiedades.com,Propiedades.com,Gustavo A. Madero,Indeco,Puerto Cozumel #77,2800000.0,140.0,20000.0,3.0,1.0,0.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0285,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Industrial,Sin calle,6500000.0,386.0,16839.38,3.0,3.0,1.0,19.475,-99.118,333.58,678.37
+GAM-CASAS-0286,Propiedades.com,Propiedades.com,Gustavo A. Madero,Pueblo de Santiago Atzacoalco,Sin calle,5290000.0,390.0,13564.1,7.0,7.0,1.0,19.502,-99.105,2062.18,1858.02
+GAM-CASAS-0287,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,C. 321 804,2611548.0,80.0,32644.35,2.0,1.0,0.5,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0288,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial La Escalera,Arroyo nuevo #22,8950000.0,239.0,37447.7,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0289,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón V Secc,C. 641 228,650000.0,110.0,5909.09,3.0,1.0,0.33,19.458,-99.082,839.51,973.46
+GAM-CASAS-0290,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,22800000.0,750.0,30400.0,3.0,2.0,0.67,19.481,-99.129,611.27,422.22
+GAM-CASAS-0291,Propiedades.com,Propiedades.com,Gustavo A. Madero,Rosas del Tepeyac,Sin calle,25000000.0,470.0,53191.49,9.0,3.0,0.33,19.488,-99.118,305.63,767.32
+GAM-CASAS-0292,Propiedades.com,"Inmuebles24, Propiedades.com",Gustavo A. Madero,Industrial,Sin calle,8650000.0,247.0,35020.24,3.0,4.0,1.33,19.475,-99.118,333.58,678.37
+GAM-CASAS-0293,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,30000000.0,1718.0,17462.17,8.0,6.0,0.75,19.488,-99.128,458.45,485.77
+GAM-CASAS-0294,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Se vende casa montevideo #421,9000000.0,480.0,18750.0,6.0,8.0,1.33,19.481,-99.129,611.27,422.22
+GAM-CASAS-0295,Propiedades.com,Propiedades.com,Gustavo A. Madero,Churubusco Tepeyac,Se vende casa Recife #581Int. 2,7500000.0,128.0,58593.75,5.0,4.0,0.8,19.488,-99.122,305.63,648.52
+GAM-CASAS-0296,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Manizales #906,9495000.0,332.0,28599.4,4.0,5.0,1.25,19.488,-99.128,458.45,485.77
+GAM-CASAS-0297,Propiedades.com,Propiedades.com,Gustavo A. Madero,Gabriel Hernández,venta disponible en GABINO BARREDA #.,2199000.0,85.0,25870.59,2.0,2.0,1.0,19.498,-99.105,1806.51,1413.58
+GAM-CASAS-0298,Propiedades.com,Propiedades.com,Gustavo A. Madero,Cuautepec de Madero,venta disponible en 3 cerrada del Rosario,3250000.0,230.0,14130.43,8.0,2.0,0.25,19.548,-99.132,3357.24,1155.53
+GAM-CASAS-0299,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,Se vende casa jovellanos #17,10050000.0,345.0,29130.43,3.0,3.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0300,Propiedades.com,Propiedades.com,Gustavo A. Madero,Magdalena de las Salinas,Norte 3 A #4908,4600000.0,231.0,19913.42,6.0,4.0,0.67,19.482,-99.14,569.37,322.44
+GAM-CASAS-0301,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,CALLE #615,748000.0,220.0,3400.0,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0302,Propiedades.com,Propiedades.com,Gustavo A. Madero,Defensores de La República,Sin calle,5500000.0,330.0,16666.67,4.0,4.0,1.0,19.473,-99.138,1069.74,360.35
+GAM-CASAS-0303,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón IV Sección,Sin calle,629000.0,100.0,6290.0,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0304,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #000,Sin calle,8150000.0,284.0,28697.18,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0305,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,7600000.0,338.0,22485.21,5.0,3.0,0.6,19.488,-99.128,458.45,485.77
+GAM-CASAS-0306,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,11000000.0,276.0,39855.07,4.0,3.0,0.75,19.481,-99.129,611.27,422.22
+GAM-CASAS-0307,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón VII Sección,Av 493 #11,1890000.0,185.0,10216.22,3.0,4.0,1.33,19.458,-99.082,839.51,973.46
+GAM-CASAS-0308,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Lindavista Norte,Sin calle,25000000.0,581.0,43029.26,3.0,3.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0309,Propiedades.com,Propiedades.com,Gustavo A. Madero,Juan Diego,Sin calle,7800000.0,193.0,40414.51,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0310,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación San Juan de Aragón,Se vende casa CALLE 1505 #45,1200000.0,152.0,7894.74,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0311,Propiedades.com,Propiedades.com,Gustavo A. Madero,Santa Isabel Tola,Sin calle,3790000.0,160.0,23687.5,3.0,2.0,0.67,19.492,-99.118,305.63,1212.07
+GAM-CASAS-0312,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,9200000.0,278.0,33093.53,3.0,3.0,1.0,19.481,-99.129,611.27,422.22
+GAM-CASAS-0313,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San Pedro Zacatenco,Sin calle,7700000.0,257.0,29961.09,4.0,3.0,0.75,19.508,-99.12,1099.93,1523.69
+GAM-CASAS-0314,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,venta disponible en MATANZAS #682,17500000.0,629.0,27821.94,4.0,5.0,1.25,19.488,-99.128,458.45,485.77
+GAM-CASAS-0315,Propiedades.com,"Inmuebles24, Propiedades.com",Gustavo A. Madero,Lindavista Sur,Sin calle,8300000.0,357.0,23249.3,5.0,2.0,0.4,19.481,-99.129,611.27,422.22
+GAM-CASAS-0316,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tres Estrellas,Sin calle,8300000.0,536.0,15485.07,11.0,9.0,0.82,19.479,-99.117,152.82,260.43
+GAM-CASAS-0317,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Purísima Ticomán,Sin calle,6550000.0,262.0,25000.0,,,,19.482,-99.115,544.73,340.03
+GAM-CASAS-0318,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Vallejo III Sección,PTE 126 #0,920597.0,115.0,8005.19,3.0,2.0,0.67,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0319,Propiedades.com,Propiedades.com,Gustavo A. Madero,Del Obrero,EL EJIDO #1,5300000.0,382.0,13874.35,5.0,6.0,1.2,19.482,-99.108,305.64,526.37
+GAM-CASAS-0320,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Faja de Oro,Norte 74-A #5809,9900000.0,450.0,22000.0,2.0,1.0,0.5,19.471,-99.115,621.33,691.37
+GAM-CASAS-0321,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Sin calle,11899000.0,425.0,27997.65,6.0,4.0,0.67,19.475,-99.118,333.58,678.37
+GAM-CASAS-0322,Propiedades.com,Propiedades.com,Gustavo A. Madero,USD  Col. Lindavista Norte,Sin calle,26000000.0,700.0,37142.86,5.0,4.0,0.8,19.488,-99.128,458.45,485.77
+GAM-CASAS-0323,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Sin calle,8700000.0,429.0,20279.72,6.0,4.0,0.67,19.475,-99.118,333.58,678.37
+GAM-CASAS-0324,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón VI Sección,avenida 499 #113,2460000.0,251.0,9800.8,4.0,3.0,0.75,19.458,-99.082,839.51,973.46
+GAM-CASAS-0325,Propiedades.com,Propiedades.com,Gustavo A. Madero,Cuchilla del Tesoro,Venta Cuchilla DEL Tesoro Poniente  6 Gustavo A. Madero,6550000.0,200.0,32750.0,,3.0,,19.455,-99.058,1375.5,3181.19
+GAM-CASAS-0326,Propiedades.com,Propiedades.com,Gustavo A. Madero,Mártires de Río Blanco,Norte 58 #000000,3137066.0,205.0,15302.76,3.0,1.0,0.33,19.465,-99.12,1100.18,857.97
+GAM-CASAS-0327,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #s/n,Sin calle,1339000.0,,,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0328,Propiedades.com,Propiedades.com,Gustavo A. Madero,Bondojito,Sin calle,6300000.0,475.0,13263.16,10.0,6.0,0.6,19.465,-99.112,394.01,122.76
+GAM-CASAS-0329,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Pernambuco #732,16000000.0,580.0,27586.21,5.0,7.0,1.4,19.488,-99.128,458.45,485.77
+GAM-CASAS-0330,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Progreso Nacional,Sin calle,3900000.0,160.0,24375.0,2.0,2.0,1.0,19.522,-99.151,666.99,2364.87
+GAM-CASAS-0331,Propiedades.com,Propiedades.com,Gustavo A. Madero,MZ. 18,# No. 127,1107003.0,122.0,9073.8,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0332,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,25245000.0,898.0,28112.47,3.0,3.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0333,Propiedades.com,Propiedades.com,Gustavo A. Madero,Del Bosque,2a cerrada de ceiba #9,3250000.0,240.0,13541.67,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0334,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Casas Alemán,Puerto Coatzacoalcos #0000,1185000.0,205.0,5780.49,3.0,1.0,0.33,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0335,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Casas Alemán,Sin calle,5750000.0,462.0,12445.89,14.0,9.0,0.64,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0336,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Secc,Av. 515,7000000.0,185.0,37837.84,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0337,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,Se vende casa AVENIDA 499 #000,2895982.0,90.0,32177.58,3.0,1.0,0.33,19.458,-99.082,839.51,973.46
+GAM-CASAS-0338,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Cda. de Otavalo 119,895000.0,57.0,15701.75,4.0,3.0,0.75,19.481,-99.129,611.27,422.22
+GAM-CASAS-0339,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ex Escuela de Tiro,PENTAGONOS #4,3750000.0,294.0,12755.1,5.0,5.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0340,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Guadalupe Proletaria,Santiago Atepetlac #000000,1955349.0,205.0,9538.29,2.0,1.0,0.5,19.525,-99.148,638.72,2693.85
+GAM-CASAS-0341,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Providencia,Sin calle,4550000.0,160.0,28437.5,6.0,3.0,0.5,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0342,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Proletaria,Venta  Cda Santiago Atepetlac #13,2035811.0,90.0,22620.12,2.0,1.0,0.5,19.522,-99.146,245.85,2381.07
+GAM-CASAS-0343,Propiedades.com,Propiedades.com,Gustavo A. Madero,Cuautepec Barrio Alto,Miguel lerdo de Tejada #40,5150000.0,428.0,12032.71,3.0,3.0,1.0,19.558,-99.129,3996.3,628.68
+GAM-CASAS-0344,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón IV Secc,C. 641,490000.0,98.0,5000.0,2.0,1.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0345,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ahuehuetes,venta disponible en Cda. Encinos,2750000.0,143.0,19230.77,4.0,3.0,0.75,19.535,-99.135,1969.84,2181.3
+GAM-CASAS-0346,Propiedades.com,Propiedades.com,Gustavo A. Madero,C.T.M. Atzacoalco,RET Alfonso Echanove #0000,856350.0,205.0,4177.32,3.0,1.0,0.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0347,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,COQUIMBO #0,2845000.0,115.0,24739.13,3.0,2.0,0.67,19.483,-99.122,385.17,460.19
+GAM-CASAS-0348,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Secc,Av 511 231,2090000.0,65.0,32153.85,2.0,1.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0349,Propiedades.com,Propiedades.com,Gustavo A. Madero,Estrella,Sin calle,7800000.0,230.0,33913.04,9.0,7.0,0.78,19.479,-99.117,152.82,260.43
+GAM-CASAS-0350,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,Sin calle,11490000.0,365.0,31479.45,5.0,3.0,0.6,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0351,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón VII Sección,Venta  Avenida  499 #133Int. -,2520602.0,212.0,11889.63,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0352,Propiedades.com,Propiedades.com,Gustavo A. Madero,Estrella,Malaquita #62,5200000.0,125.0,41600.0,3.0,1.0,0.33,19.479,-99.117,152.82,260.43
+GAM-CASAS-0353,Propiedades.com,Propiedades.com,Gustavo A. Madero,Magdalena de las Salinas,Norte 17 #00000,1410000.0,205.0,6878.05,3.0,1.0,0.33,19.482,-99.14,569.37,322.44
+GAM-CASAS-0354,Propiedades.com,Propiedades.com,Gustavo A. Madero,Aragón Inguarán,Se vende casa Patamban #0000,990307.0,205.0,4830.77,2.0,1.0,0.5,19.472,-99.11,444.78,156.95
+GAM-CASAS-0355,Propiedades.com,Propiedades.com,Gustavo A. Madero,Vallejo,Sin calle,10400000.0,402.0,25870.65,9.0,5.0,0.56,19.472,-99.141,983.44,502.67
+GAM-CASAS-0356,Propiedades.com,Propiedades.com,Gustavo A. Madero,Calz. San Juan de Aragón,Sin calle,5500000.0,250.0,22000.0,3.0,3.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0357,Propiedades.com,Propiedades.com,Gustavo A. Madero,Providencia,ESTADO DE CHIHUAHUA #92,5280000.0,390.0,13538.46,4.0,4.0,1.0,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0358,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,Avenida 511 #000000,1660000.0,205.0,8097.56,3.0,1.0,0.33,19.458,-99.082,839.51,973.46
+GAM-CASAS-0359,Propiedades.com,Propiedades.com,Gustavo A. Madero,Emiliano Zapata,Calle norte 52,5300000.0,220.0,24090.91,2.0,1.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0360,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Ampliación Casas Alemán,Sin calle,5950000.0,217.0,27419.35,4.0,2.0,0.5,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0361,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Joyita,venta disponible en NORTE 50 #0,1418960.0,220.0,6449.82,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0362,Propiedades.com,Propiedades.com,Gustavo A. Madero,Jorge Negrete,Sin calle,4900000.0,203.0,24137.93,5.0,3.0,0.6,19.545,-99.141,2811.3,1576.34
+GAM-CASAS-0363,Propiedades.com,Propiedades.com,Gustavo A. Madero,Providencia,ESTADO DE MEXICO 63 #0,2869896.0,210.0,13666.17,3.0,2.0,0.67,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0364,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San Pedro Zacatenco,Sin calle,12000000.0,549.0,21857.92,11.0,9.0,0.82,19.508,-99.12,1099.93,1523.69
+GAM-CASAS-0365,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,Coquimbo #0000000,2845000.0,205.0,13878.05,2.0,1.0,0.5,19.483,-99.122,385.17,460.19
+GAM-CASAS-0366,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,35890000.0,609.0,58932.68,4.0,4.0,1.0,19.481,-99.129,611.27,422.22
+GAM-CASAS-0367,Propiedades.com,Propiedades.com,Gustavo A. Madero,Santa Maria Ticoman,Sin calle,9405000.0,459.0,20490.2,5.0,3.0,0.6,19.512,-99.135,938.34,1932.53
+GAM-CASAS-0368,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Nte.,Chiclayo,6990000.0,150.0,46600.0,3.0,2.0,0.67,19.488,-99.128,458.45,485.77
+GAM-CASAS-0369,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Joya,Sin calle,7900000.0,320.0,24687.5,5.0,3.0,0.6,19.498,-99.128,806.1,1365.48
+GAM-CASAS-0370,Propiedades.com,Propiedades.com,Gustavo A. Madero,Planetario Lindavista,Venta  OTAVALO #0,8500000.0,268.0,31716.42,4.0,4.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0371,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Vallejo III Sección,PTE. 126 #00000,920597.0,205.0,4490.72,3.0,1.0,0.33,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0372,Propiedades.com,Propiedades.com,Gustavo A. Madero,El Coyol,C. 319,512000.0,159.0,3220.13,3.0,2.0,0.67,19.482,-99.078,2027.76,2791.67
+GAM-CASAS-0373,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Sin calle,4350000.0,122.0,35655.74,4.0,2.0,0.5,19.475,-99.118,333.58,678.37
+GAM-CASAS-0374,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,Martha 131,9750000.0,231.0,42207.79,3.0,3.0,1.0,19.469,-99.117,742.24,779.41
+GAM-CASAS-0375,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Sección,Sin calle,12988000.0,562.0,23110.32,12.0,9.0,0.75,19.458,-99.082,839.51,973.46
+GAM-CASAS-0376,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #62Int. 62,Sin calle,5200000.0,125.0,41600.0,3.0,1.0,0.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0377,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,1948649.0,156.0,12491.34,3.0,3.0,1.0,19.481,-99.129,611.27,422.22
+GAM-CASAS-0378,Propiedades.com,Propiedades.com,Gustavo A. Madero,Villa de Aragón,TEZOZOMOC #63,1880000.0,220.0,8545.45,3.0,3.0,1.0,19.452,-99.068,913.94,2108.5
+GAM-CASAS-0379,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Insurgentes,Claudio Castro #175,6999000.0,144.0,48604.17,4.0,2.0,0.5,19.474,-99.121,544.74,846.0
+GAM-CASAS-0380,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,Sin calle,1660000.0,200.0,8300.0,3.0,1.0,0.33,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0381,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,C. 641 #0Int. 0,629000.0,136.0,4625.0,2.0,1.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0382,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #s/n,Sin calle,3950000.0,355.0,11126.76,12.0,7.0,0.58,19.482,-99.115,544.73,340.03
+GAM-CASAS-0383,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Secc,venta disponible en Av. 531 244,6700000.0,231.0,29004.33,7.0,4.0,0.57,19.458,-99.082,839.51,973.46
+GAM-CASAS-0384,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Basiliso Romo Anguiano #21,12000000.0,660.0,18181.82,8.0,7.0,0.88,19.475,-99.118,333.58,678.37
+GAM-CASAS-0385,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,16000000.0,531.0,30131.83,5.0,4.0,0.8,19.481,-99.129,611.27,422.22
+GAM-CASAS-0386,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Vallejo I Sección,NORTE 17 #5252,4330000.0,310.0,13967.74,3.0,3.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0387,Propiedades.com,Propiedades.com,Gustavo A. Madero,General Felipe Berriozabal,Se vende casa Gral Felipe Berriozábal  #s/n,1256800.0,111.0,11322.52,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0388,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tablas de San Agustín,venta disponible en NORTE 56 A #5203,3430000.0,255.0,13450.98,5.0,2.0,0.4,19.472,-99.105,569.4,381.48
+GAM-CASAS-0389,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Pradera,Sin calle,4302500.0,167.0,25763.47,2.0,2.0,1.0,19.482,-99.088,1833.85,1757.9
+GAM-CASAS-0390,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,10700000.0,330.0,32424.24,4.0,4.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0391,Propiedades.com,Propiedades.com,Gustavo A. Madero,Gertrudis Sánchez 1a Sección,Norte 80-A #6204,1125000.0,264.0,4261.36,4.0,2.0,0.5,19.468,-99.098,305.65,1218.72
+GAM-CASAS-0392,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Se vende casa Prernambuco #845,13000000.0,457.0,28446.39,6.0,8.0,1.33,19.488,-99.128,458.45,485.77
+GAM-CASAS-0393,Propiedades.com,Propiedades.com,Gustavo A. Madero,Mártires de Río Blanco,venta disponible en Nte 58,799811.0,140.0,5712.94,3.0,2.0,0.67,19.465,-99.12,1100.18,857.97
+GAM-CASAS-0394,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,Sin calle,8995000.0,310.0,29016.13,2.0,3.0,1.5,19.483,-99.122,385.17,460.19
+GAM-CASAS-0395,Propiedades.com,Propiedades.com,Gustavo A. Madero,Acueducto de Guadalupe,DE LA ESCOLLERA #0,986000.0,200.0,4930.0,3.0,2.0,0.67,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0396,Propiedades.com,Propiedades.com,Gustavo A. Madero,Aragón Inguarán,Se vende casa NORTE 72 B #6018,1750000.0,120.0,14583.33,3.0,2.0,0.67,19.472,-99.11,444.78,156.95
+GAM-CASAS-0397,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,8690000.0,168.0,51726.19,9.0,5.0,0.56,19.482,-99.115,544.73,340.03
+GAM-CASAS-0398,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,FUNDIDORA DE MONTERREY #210,2470000.0,95.0,26000.0,3.0,4.0,1.33,19.475,-99.118,333.58,678.37
+GAM-CASAS-0399,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Nte.,Bonao 113,9987000.0,287.0,34797.91,6.0,4.0,0.67,19.488,-99.128,458.45,485.77
+GAM-CASAS-0400,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Lindavista Sur,Sin calle,6800000.0,270.0,25185.19,4.0,3.0,0.75,19.481,-99.129,611.27,422.22
+GAM-CASAS-0401,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Sección,Av 533,3950000.0,123.0,32113.82,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0402,Propiedades.com,"Inmuebles24, Propiedades.com",Gustavo A. Madero,Ferrocarrilera,Sin calle,9590000.0,429.0,22354.31,8.0,4.0,0.5,19.482,-99.111,245.86,750.98
+GAM-CASAS-0403,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Venta  Manizalez #00,1613175.0,190.0,8490.39,3.0,1.0,0.33,19.488,-99.128,458.45,485.77
+GAM-CASAS-0404,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,cda de otavalo #119,2610000.0,266.0,9812.03,3.0,2.0,0.67,19.481,-99.129,611.27,422.22
+GAM-CASAS-0405,Propiedades.com,Propiedades.com,Gustavo A. Madero,Campestre Aragón,Sin calle,4650000.0,420.0,11071.43,3.0,2.0,0.67,19.472,-99.075,1305.73,2670.81
+GAM-CASAS-0406,Propiedades.com,Propiedades.com,Gustavo A. Madero,Fernando Casas Alemán,Venta  PTO. CAMPECHE #124,1936875.0,240.0,8070.31,4.0,3.0,0.75,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0407,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Providencia,Sin calle,746012.0,207.0,3603.92,4.0,3.0,0.75,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0408,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,RICARTE #120Int. OFICINA DE ATENCION,2906000.0,199.0,14603.02,3.0,4.0,1.33,19.481,-99.129,611.27,422.22
+GAM-CASAS-0409,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #s/n,Sin calle,10500000.0,236.0,44491.53,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0410,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Mártires de Río Blanco,NORTE 58 #0,3137066.0,300.0,10456.89,3.0,2.0,0.67,19.468,-99.122,1188.39,1071.46
+GAM-CASAS-0411,Propiedades.com,Propiedades.com,Gustavo A. Madero,C.T.M. Atzacoalco,Retorno Alfonso Echanove #9,980000.0,170.0,5764.71,2.0,1.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0412,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón IV Secc,C. 641,550000.0,98.0,5612.24,2.0,1.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0413,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,AV. LA FORTUNA #11,3300000.0,200.0,16500.0,3.0,2.0,0.67,19.483,-99.122,385.17,460.19
+GAM-CASAS-0414,Propiedades.com,Propiedades.com,Gustavo A. Madero,Valle del Tepeyac,Sin calle,8200000.0,,,4.0,3.0,0.75,19.495,-99.138,638.75,877.62
+GAM-CASAS-0415,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Se vende casa Escuela industrial #118,6400000.0,293.0,21843.0,4.0,3.0,0.75,19.475,-99.118,333.58,678.37
+GAM-CASAS-0416,Propiedades.com,Propiedades.com,Gustavo A. Madero,Martín Carrera,venta disponible en GRAL.  LÓPEZ DE SANTA ANNA #00,6190000.0,350.0,17685.71,4.0,3.0,0.75,19.486,-99.108,699.34,385.32
+GAM-CASAS-0417,Propiedades.com,Propiedades.com,Gustavo A. Madero,El Coyol,Sin calle,798012.0,290.0,2751.77,4.0,4.0,1.0,19.482,-99.078,2027.76,2791.67
+GAM-CASAS-0418,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Torres Lindavista,Sin calle,14700000.0,380.0,38684.21,3.0,2.0,0.67,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0419,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,Sin calle,4300000.0,248.0,17338.71,4.0,4.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0420,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #74,Sin calle,35000000.0,350.0,100000.0,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0421,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón IV Secc,C. 615,4800000.0,175.0,27428.57,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0422,Propiedades.com,Propiedades.com,Gustavo A. Madero,Campestre Aragón,Sin calle,725000.0,186.0,3897.85,3.0,2.0,0.67,19.472,-99.075,1305.73,2670.81
+GAM-CASAS-0423,Propiedades.com,Propiedades.com,Gustavo A. Madero,C.T.M. El Risco,Sin calle,1800000.0,50.0,36000.0,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0424,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,Calle 641,629000.0,113.0,5566.37,3.0,1.0,0.33,19.458,-99.082,839.51,973.46
+GAM-CASAS-0425,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Vallejo,Sin calle,7900000.0,395.0,20000.0,,3.0,,19.482,-99.142,385.18,335.8
+GAM-CASAS-0426,Propiedades.com,Propiedades.com,Gustavo A. Madero,Acueducto de Guadalupe,Sin calle,3749000.0,270.0,13885.19,4.0,3.0,0.75,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0427,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Casas Alemán,Sin calle,4200000.0,209.0,20095.69,3.0,2.0,0.67,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0428,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #s/n,Sin calle,3800000.0,250.0,15200.0,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0429,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,Amalia #4,8500000.0,525.0,16190.48,10.0,6.0,0.6,19.469,-99.117,742.24,779.41
+GAM-CASAS-0430,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Providencia,ESTADO DE MEXICO #63,2386161.0,280.0,8522.0,5.0,2.0,0.4,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0431,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,1749605.0,132.0,13254.58,3.0,3.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0432,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Torres Lindavista,Sin calle,16500000.0,493.0,33468.56,3.0,3.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0433,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,Venta  Sin nombre de calle,4300000.0,220.0,19545.45,4.0,4.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0434,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Mártires de Río Blanco,Sin calle,5400000.0,202.0,26732.67,4.0,2.0,0.5,19.465,-99.12,1100.18,857.97
+GAM-CASAS-0435,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Tepeyac,Graciela 149,1390000.0,130.0,10692.31,3.0,2.0,0.67,19.469,-99.117,742.24,779.41
+GAM-CASAS-0436,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,Sin calle,13800000.0,275.0,50181.82,4.0,2.0,0.5,19.483,-99.122,385.17,460.19
+GAM-CASAS-0437,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Camino tellez #S/nInt. S/n,1293530.0,70.0,18479.0,2.0,2.0,1.0,19.481,-99.129,611.27,422.22
+GAM-CASAS-0438,Propiedades.com,Propiedades.com,Gustavo A. Madero,El Coyol,Calle 317 #317,4200000.0,136.0,30882.35,3.0,1.0,0.33,19.482,-99.078,2027.76,2791.67
+GAM-CASAS-0439,Propiedades.com,Propiedades.com,Gustavo A. Madero,Gustavo A. Madero,Sin calle,7500000.0,250.0,30000.0,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0440,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Felipe de Jesús,Acultzingo 48,4800000.0,400.0,12000.0,6.0,6.0,1.0,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0441,Propiedades.com,Propiedades.com,Gustavo A. Madero,General Felipe Berriozabal,Felipe Berriozabal #1,3700000.0,82.0,45121.95,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0442,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San Pedro El Chico,Se vende casa Norte 86 a,4200000.0,136.0,30882.35,3.0,1.0,0.33,19.472,-99.098,305.65,1112.64
+GAM-CASAS-0443,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,UNIÓN #163,5680000.0,120.0,47333.33,3.0,3.0,1.0,19.475,-99.118,333.58,678.37
+GAM-CASAS-0444,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Guadalupe Proletaria,Santiago Atepetlac #13,3062745.0,211.0,14515.38,2.0,1.0,0.5,19.525,-99.148,638.72,2693.85
+GAM-CASAS-0445,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,Sin calle,4300000.0,248.0,17338.71,4.0,3.0,0.75,19.458,-99.082,839.51,973.46
+GAM-CASAS-0446,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Pedro Zacatenco,Cartagena Norte #285,8000000.0,500.0,16000.0,3.0,4.0,1.33,19.508,-99.12,1099.93,1523.69
+GAM-CASAS-0447,Propiedades.com,Propiedades.com,Gustavo A. Madero,Se vende casa Col. Villa Gustavo A. Madero,Sin calle,9000000.0,437.0,20594.97,,,,19.482,-99.115,544.73,340.03
+GAM-CASAS-0448,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,C. 321 804,2611548.0,135.0,19344.8,3.0,2.0,0.67,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0449,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #250,Sin calle,5350000.0,435.0,12298.85,7.0,8.0,1.14,19.482,-99.115,544.73,340.03
+GAM-CASAS-0450,Propiedades.com,Propiedades.com,Gustavo A. Madero,Aragón la Villa,Pople #2,9600000.0,268.0,35820.9,6.0,2.0,0.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0451,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San Juan de Aragón III Sección,67 #N/A,4030000.0,160.0,25187.5,6.0,3.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0452,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial Zacatenco,Sin calle,16500000.0,674.0,24480.71,4.0,5.0,1.25,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0453,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Miguel,Sin calle,13750000.0,597.0,23031.83,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0454,Propiedades.com,Propiedades.com,Gustavo A. Madero,Acueducto de Guadalupe,venta disponible en Acueducto de Guadalupe #WHI312494,7000000.0,262.0,26717.56,3.0,3.0,1.0,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0455,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Insurgentes,Guadalupe Insurgentes #WHI312493,6800000.0,313.0,21725.24,5.0,3.0,0.6,19.474,-99.121,544.74,846.0
+GAM-CASAS-0456,Propiedades.com,Propiedades.com,Gustavo A. Madero,Santa Rosa,Avenida 7-A #73,5000000.0,178.0,28089.89,6.0,4.0,0.67,19.522,-99.16,1587.7,2615.02
+GAM-CASAS-0457,Propiedades.com,Propiedades.com,Gustavo A. Madero,Siete Maravillas,Sin calle,13200000.0,240.0,55000.0,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0458,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,8400000.0,264.0,31818.18,4.0,3.0,0.75,19.481,-99.129,611.27,422.22
+GAM-CASAS-0459,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón II Sección,Venta  av.553 #1,4300000.0,248.0,17338.71,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0460,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,C. 321,3600000.0,175.0,20571.43,3.0,2.0,0.67,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0461,Propiedades.com,Propiedades.com,Gustavo A. Madero,Delegación Política Gustavo A Madero,Sin calle,1032000.0,59.0,17491.53,2.0,1.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0462,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,9800000.0,180.0,54444.44,4.0,2.0,0.5,19.488,-99.128,458.45,485.77
+GAM-CASAS-0463,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial Zacatenco,Venta  RAMIRIQUI #1022,7000000.0,280.0,25000.0,3.0,3.0,1.0,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0464,Propiedades.com,Propiedades.com,Gustavo A. Madero,Campestre Aragón,Callejón 7mo de secretaria,4300000.0,165.0,26060.61,3.0,4.0,1.33,19.472,-99.075,1305.73,2670.81
+GAM-CASAS-0465,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,La Joya,Venta  Oriente 87,5700000.0,367.0,15531.34,6.0,3.0,0.5,19.498,-99.128,806.1,1365.48
+GAM-CASAS-0466,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista,Casma 711,11000000.0,400.0,27500.0,6.0,4.0,0.67,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0467,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón VI Sección,Sin calle,4200000.0,206.0,20388.35,4.0,3.0,0.75,19.458,-99.082,839.51,973.46
+GAM-CASAS-0468,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Sin calle,6200000.0,265.0,23396.23,4.0,1.0,0.25,19.475,-99.118,333.58,678.37
+GAM-CASAS-0469,Propiedades.com,Propiedades.com,Gustavo A. Madero,Salvador Díaz Mirón,Norte 74,6500000.0,226.0,28761.06,4.0,3.0,0.75,19.481,-99.101,950.0,596.36
+GAM-CASAS-0470,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Panamericana,Nte. 1-H,4500000.0,231.0,19480.52,3.0,4.0,1.33,19.483,-99.139,711.96,462.76
+GAM-CASAS-0471,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #s/n,Sin calle,18800000.0,480.0,39166.67,4.0,4.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0472,Propiedades.com,Propiedades.com,Gustavo A. Madero,General Felipe Berriozabal,Sin calle,3200000.0,92.0,34782.61,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0473,Propiedades.com,Propiedades.com,Gustavo A. Madero,Santa Isabel Tola,Acoltzin 17,4000000.0,330.0,12121.21,9.0,3.0,0.33,19.492,-99.118,305.63,1212.07
+GAM-CASAS-0474,Propiedades.com,Propiedades.com,Gustavo A. Madero,Progreso Nacional,Venta  C. 19,6600000.0,460.0,14347.83,6.0,5.0,0.83,19.522,-99.151,666.99,2364.87
+GAM-CASAS-0475,Propiedades.com,Propiedades.com,Gustavo A. Madero,Santiago Atzacoalco,Sin calle,4200000.0,312.0,13461.54,7.0,4.0,0.57,19.502,-99.105,2062.18,1858.02
+GAM-CASAS-0476,Propiedades.com,Propiedades.com,Gustavo A. Madero,Progreso Nacional,Once #170,9990000.0,484.0,20640.5,13.0,6.0,0.46,19.522,-99.151,666.99,2364.87
+GAM-CASAS-0477,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,Sin calle,7256000.0,,,4.0,3.0,0.75,19.483,-99.122,385.17,460.19
+GAM-CASAS-0478,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,Sin calle,5650000.0,186.0,30376.34,3.0,3.0,1.0,19.483,-99.122,385.17,460.19
+GAM-CASAS-0479,Propiedades.com,Propiedades.com,Gustavo A. Madero,General Felipe Berriozabal,Jeronimo Treviño #1,3200000.0,129.0,24806.2,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0480,Propiedades.com,Propiedades.com,Gustavo A. Madero,Triunfo de La República,Venta  Calle 7 #13,4000000.0,141.0,28368.79,9.0,3.0,0.33,19.486,-99.114,770.33,693.97
+GAM-CASAS-0481,Propiedades.com,Propiedades.com,Gustavo A. Madero,Villa Gustavo A. Madero,Sin calle,8350000.0,561.0,14884.14,7.0,5.0,0.71,19.482,-99.115,544.73,340.03
+GAM-CASAS-0482,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,4200000.0,385.0,10909.09,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0483,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,321,4550000.0,250.0,18200.0,5.0,4.0,0.8,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0484,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Estrella,Sin calle,9000000.0,286.0,31468.53,5.0,3.0,0.6,19.479,-99.117,152.82,260.43
+GAM-CASAS-0485,Propiedades.com,Propiedades.com,Gustavo A. Madero,Magdalena de las Salinas,Sin calle,1373000.0,58.0,23672.41,2.0,2.0,1.0,19.482,-99.14,569.37,322.44
+GAM-CASAS-0486,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón VI Sección,Sin calle,2518000.0,109.0,23100.92,2.0,2.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0487,Propiedades.com,Propiedades.com,Gustavo A. Madero,Magdalena de las Salinas,Norte 17,6100000.0,242.0,25206.61,6.0,6.0,1.0,19.482,-99.14,569.37,322.44
+GAM-CASAS-0488,Propiedades.com,Propiedades.com,Gustavo A. Madero,Jorge Negrete,Sin calle,2700000.0,161.0,16770.19,2.0,2.0,1.0,19.545,-99.141,2811.3,1576.34
+GAM-CASAS-0489,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,calle .,7850000.0,205.0,38292.68,3.0,2.0,0.67,19.483,-99.122,385.17,460.19
+GAM-CASAS-0490,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Estrella,Sin calle,9950000.0,650.0,15307.69,5.0,5.0,1.0,19.479,-99.117,152.82,260.43
+GAM-CASAS-0491,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,Sin calle,1785000.0,103.0,17330.1,4.0,1.0,0.25,19.483,-99.122,385.17,460.19
+GAM-CASAS-0492,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Tepeyac Insurgentes,Sin calle,8990000.0,265.0,33924.53,5.0,5.0,1.0,19.483,-99.122,385.17,460.19
+GAM-CASAS-0493,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,490000.0,98.0,5000.0,2.0,1.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0494,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Lindavista Norte,Sin calle,8195000.0,259.0,31640.93,3.0,3.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0495,Propiedades.com,Propiedades.com,Gustavo A. Madero,Martín Carrera,Sin calle,4300000.0,340.0,12647.06,6.0,5.0,0.83,19.486,-99.108,699.34,385.32
+GAM-CASAS-0496,Propiedades.com,Propiedades.com,Gustavo A. Madero,Panamericana,NORTE 3 A,4500000.0,231.0,19480.52,7.0,5.0,0.71,19.483,-99.139,711.96,462.76
+GAM-CASAS-0497,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Sin calle,5590000.0,250.0,22360.0,3.0,2.0,0.67,19.475,-99.118,333.58,678.37
+GAM-CASAS-0498,Propiedades.com,Propiedades.com,Gustavo A. Madero,Constitución de la República,Venta  Espiridión Moreno 105,4490000.0,105.0,42761.9,4.0,4.0,1.0,19.48,-99.095,1229.3,1148.17
+GAM-CASAS-0499,Propiedades.com,Propiedades.com,Gustavo A. Madero,Santa Isabel Tola,Venta  Citli #403,4500000.0,258.0,17441.86,3.0,2.0,0.67,19.492,-99.118,305.63,1212.07
+GAM-CASAS-0500,Propiedades.com,Propiedades.com,Gustavo A. Madero,Mártires de Río Blanco,venta disponible en Norte 76-A,6500000.0,193.0,33678.76,4.0,5.0,1.25,19.465,-99.12,1100.18,857.97
+GAM-CASAS-0501,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,12600000.0,575.0,21913.04,3.0,3.0,1.0,19.481,-99.129,611.27,422.22
+GAM-CASAS-0502,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,México al 200 #249,2750000.0,90.0,30555.56,,1.0,,19.481,-99.129,611.27,422.22
+GAM-CASAS-0503,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación San Juan de Aragón,Sin calle,5500000.0,241.0,22821.58,5.0,3.0,0.6,19.458,-99.082,839.51,973.46
+GAM-CASAS-0504,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Nueva Atzacoalco,Sin calle,4100000.0,354.0,11581.92,4.0,2.0,0.5,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0505,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Bartolo Atepehuacan,Sin calle,11950000.0,657.0,18188.74,10.0,4.0,0.4,19.485,-99.135,555.97,258.6
+GAM-CASAS-0506,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,Delia #00,8900000.0,335.0,26567.16,4.0,3.0,0.75,19.483,-99.122,385.17,460.19
+GAM-CASAS-0507,Propiedades.com,Propiedades.com,Gustavo A. Madero,Campestre Aragón,Camino de la Unión #73,2000000.0,220.0,9090.91,4.0,1.0,0.25,19.472,-99.075,1305.73,2670.81
+GAM-CASAS-0508,Propiedades.com,Propiedades.com,Gustavo A. Madero,San José de La Escalera,venta disponible en central #24,6890000.0,390.0,17666.67,9.0,6.0,0.67,19.515,-99.152,920.51,1606.01
+GAM-CASAS-0509,Propiedades.com,Propiedades.com,Gustavo A. Madero,25 de Julio,Venta  Cda. 16 de Septiembre,3250000.0,250.0,13000.0,6.0,2.0,0.33,19.498,-99.082,3552.56,2739.97
+GAM-CASAS-0510,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,34800000.0,687.0,50655.02,5.0,5.0,1.0,19.481,-99.129,611.27,422.22
+GAM-CASAS-0511,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Guayaquil #53,7000000.0,225.0,31111.11,4.0,1.0,0.25,19.488,-99.128,458.45,485.77
+GAM-CASAS-0512,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ex Escuela de Tiro,Venta  piastras #15,625000.0,270.0,2314.81,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0513,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial Acueducto de Guadalupe,Sin calle,5957577.0,275.0,21663.92,3.0,2.0,0.67,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0514,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San Juan de Aragón I Sección,Av. 561,8985000.0,475.0,18915.79,4.0,4.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0515,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Secc,Av. 527,6500000.0,220.0,29545.45,6.0,3.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0516,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón VI Secc,Se vende casa C. 1503 93,5950000.0,286.0,20804.2,5.0,2.0,0.4,19.458,-99.082,839.51,973.46
+GAM-CASAS-0517,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,La Joya,Sin calle,7200000.0,333.0,21621.62,6.0,4.0,0.67,19.498,-99.128,806.1,1365.48
+GAM-CASAS-0518,Propiedades.com,Propiedades.com,Gustavo A. Madero,Villa de Aragón,Sin calle,10400000.0,388.0,26804.12,5.0,7.0,1.4,19.452,-99.068,913.94,2108.5
+GAM-CASAS-0519,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tablas de San Agustín,Calle Oriente al 100 #2603,2954000.0,254.0,11629.92,,1.0,,19.472,-99.105,569.4,381.48
+GAM-CASAS-0520,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón V Secc,Calle 639 153,5300000.0,192.0,27604.17,3.0,1.0,0.33,19.458,-99.082,839.51,973.46
+GAM-CASAS-0521,Propiedades.com,Propiedades.com,Gustavo A. Madero,Planetario Lindavista,Sin calle,8500000.0,297.0,28619.53,5.0,2.0,0.4,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0522,Propiedades.com,Propiedades.com,Gustavo A. Madero,Defensores de La República,Se vende casa NORTE 11 A,2750000.0,447.0,6152.13,4.0,5.0,1.25,19.473,-99.138,1069.74,360.35
+GAM-CASAS-0523,Propiedades.com,Propiedades.com,Gustavo A. Madero,Campestre Aragón,Cmo. Triunfo #38,3750000.0,100.0,37500.0,3.0,2.0,0.67,19.472,-99.075,1305.73,2670.81
+GAM-CASAS-0524,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,Calle 309 #931,4000000.0,200.0,20000.0,7.0,4.0,0.57,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0525,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Joyita,Norte 50,4800000.0,238.0,20168.07,4.0,4.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0526,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Nte.,Chiclayo 848,29800000.0,681.0,43759.18,5.0,5.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0527,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Residencial Acueducto de Guadalupe,Sin calle,5800000.0,277.0,20938.63,3.0,4.0,1.33,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0528,Propiedades.com,Propiedades.com,Gustavo A. Madero,Zona Escolar Oriente,Adolfo Ruiz Cortínez #Lt 14 Mz 104,6900000.0,450.0,15333.33,5.0,3.0,0.6,19.542,-99.135,2661.31,1779.12
+GAM-CASAS-0529,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,6850000.0,262.0,26145.04,4.0,2.0,0.5,19.488,-99.128,458.45,485.77
+GAM-CASAS-0530,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Sin calle,5600000.0,206.0,27184.47,6.0,4.0,0.67,19.475,-99.118,333.58,678.37
+GAM-CASAS-0531,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Insurgentes,Sin calle,5740000.0,278.0,20647.48,3.0,4.0,1.33,19.474,-99.121,544.74,846.0
+GAM-CASAS-0532,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial Zacatenco,Huánuco #1332,15000000.0,408.0,36764.71,3.0,2.0,0.67,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0533,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San Juan de Aragón VI Sección,Calle 1519,4990000.0,215.0,23209.3,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0534,Propiedades.com,Propiedades.com,Gustavo A. Madero,C.T.M. El Risco,Sin calle,3650000.0,179.0,20391.06,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0535,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Pradera,Sin calle,4302500.0,167.0,25763.47,3.0,2.0,0.67,19.482,-99.088,1833.85,1757.9
+GAM-CASAS-0536,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Pedro Zacatenco,Venta  Salaverry #163,6900000.0,238.0,28991.6,8.0,7.0,0.88,19.508,-99.12,1099.93,1523.69
+GAM-CASAS-0537,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Secc,Se vende casa Av. 519,2300000.0,200.0,11500.0,4.0,3.0,0.75,19.458,-99.082,839.51,973.46
+GAM-CASAS-0538,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,Sin calle,18800000.0,480.0,39166.67,5.0,3.0,0.6,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0539,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Casas Alemán,PTO COATZACOALCOS #54,3500000.0,240.0,14583.33,4.0,2.0,0.5,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0540,Propiedades.com,Propiedades.com,Gustavo A. Madero,Capultitlan,Norte 20 #5008,3800000.0,350.0,10857.14,10.0,6.0,0.6,19.478,-99.131,1000.73,704.36
+GAM-CASAS-0541,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Secc,Av. 527,5400000.0,192.0,28125.0,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0542,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Arequipa 659,12700000.0,310.0,40967.74,5.0,3.0,0.6,19.481,-99.129,611.27,422.22
+GAM-CASAS-0543,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #10Int. 10,Sin calle,12500000.0,490.0,25510.2,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0544,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón IV Sección,Calle 625 #200,5750000.0,200.0,28750.0,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0545,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Insurgentes,Sin calle,7100000.0,251.0,28286.85,,3.0,,19.474,-99.121,544.74,846.0
+GAM-CASAS-0546,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,venta disponible en Buen Tono. #000,1546060.0,96.0,16104.79,3.0,2.0,0.67,19.483,-99.122,385.17,460.19
+GAM-CASAS-0547,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Malinche,Sin calle,5900000.0,270.0,21851.85,6.0,4.0,0.67,19.465,-99.102,594.2,1045.1
+GAM-CASAS-0548,Propiedades.com,Propiedades.com,Gustavo A. Madero,Campestre Aragón,Sin calle,5200000.0,260.0,20000.0,6.0,3.0,0.5,19.472,-99.075,1305.73,2670.81
+GAM-CASAS-0549,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón IV Sección,661,4750000.0,130.0,36538.46,3.0,1.0,0.33,19.458,-99.082,839.51,973.46
+GAM-CASAS-0550,Propiedades.com,Propiedades.com,Gustavo A. Madero,7 de Noviembre,Col. 7 de Noviembre,6100000.0,180.0,33888.89,6.0,3.0,0.5,19.475,-99.105,764.1,468.73
+GAM-CASAS-0551,Propiedades.com,Propiedades.com,Gustavo A. Madero,Mártires de Río Blanco,Oriente 87 #3205,2900000.0,152.0,19078.95,2.0,2.0,1.0,19.465,-99.12,1100.18,857.97
+GAM-CASAS-0552,Propiedades.com,Propiedades.com,Gustavo A. Madero,Zona Escolar,Sin calle,2350000.0,154.0,15259.74,7.0,2.0,0.29,19.542,-99.135,2661.31,1779.12
+GAM-CASAS-0553,Propiedades.com,Propiedades.com,Gustavo A. Madero,Gabriel Hernández,Sin calle,3300000.0,240.0,13750.0,3.0,2.0,0.67,19.498,-99.105,1806.51,1413.58
+GAM-CASAS-0554,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Se vende casa MANIZALES #0000,1531768.0,50.0,30635.36,4.0,2.0,0.5,19.481,-99.129,611.27,422.22
+GAM-CASAS-0555,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Vallejo III Sección,Venta  Av. Sur de Los 100 Metros #89,915400.0,420.0,2179.52,4.0,4.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0556,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San José de La Escalera,Sin calle,4500000.0,361.0,12465.37,6.0,5.0,0.83,19.515,-99.152,920.51,1606.01
+GAM-CASAS-0557,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Casas Alemán,Puerto San José del Cabo #85,4100000.0,220.0,18636.36,4.0,2.0,0.5,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0558,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,8900000.0,440.0,20227.27,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0559,Propiedades.com,Propiedades.com,Gustavo A. Madero,San José Ticomán,LINDAVISTA  SUR  CDMX #s/n,15000000.0,437.0,34324.94,5.0,4.0,0.8,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0560,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Bartolo Atepehuacan,Sin calle,7300000.0,322.0,22670.81,3.0,3.0,1.0,19.485,-99.135,555.97,258.6
+GAM-CASAS-0561,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,Av 511 #00Int. 00,590000.0,120.0,4916.67,3.0,3.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0562,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Sección,AV 527 #133,6200000.0,320.0,19375.0,4.0,5.0,1.25,19.458,-99.082,839.51,973.46
+GAM-CASAS-0563,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón II Sección,Venta  avenida 553 #S/N,4800000.0,186.0,25806.45,4.0,3.0,0.75,19.458,-99.082,839.51,973.46
+GAM-CASAS-0564,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Sección,AV. 529 #00,1324000.0,217.0,6101.38,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0565,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,venta disponible en Mollendo #973,8900000.0,300.0,29666.67,4.0,4.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0566,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón IV Sección,Venta  1507 #00,965000.0,140.0,6892.86,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0567,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Guadalupe Insurgentes,Sin calle,6350000.0,262.0,24236.64,6.0,2.0,0.33,19.474,-99.121,544.74,846.0
+GAM-CASAS-0568,Propiedades.com,Propiedades.com,Gustavo A. Madero,Cuchilla del Tesoro,Sin calle,3940000.0,154.0,25584.42,3.0,2.0,0.67,19.455,-99.058,1375.5,3181.19
+GAM-CASAS-0569,Propiedades.com,Propiedades.com,Gustavo A. Madero,Churubusco Tepeyac,Recife. #000,1525168.0,226.0,6748.53,4.0,2.0,0.5,19.488,-99.122,305.63,648.52
+GAM-CASAS-0570,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Casas Alemán,Venta  Puerto Cozumel #182,4150000.0,163.0,25460.12,2.0,2.0,1.0,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0571,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,Punto Fijo 73,3800000.0,250.0,15200.0,3.0,2.0,0.67,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0572,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Casas Alemán,Sin calle,3580000.0,192.0,18645.83,5.0,2.0,0.4,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0573,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tepeyac Insurgentes,Sin calle,4990000.0,138.0,36159.42,3.0,2.0,0.67,19.483,-99.122,385.17,460.19
+GAM-CASAS-0574,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Pedro Zacatenco,Se vende casa Av. Acueducto 751,8690000.0,168.0,51726.19,9.0,5.0,0.56,19.508,-99.12,1099.93,1523.69
+GAM-CASAS-0575,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Union #000,5245000.0,336.0,15610.12,3.0,3.0,1.0,19.475,-99.118,333.58,678.37
+GAM-CASAS-0576,Propiedades.com,Propiedades.com,Gustavo A. Madero,El Coyol,CALLE 309 #9,795000.0,265.0,3000.0,4.0,4.0,1.0,19.482,-99.078,2027.76,2791.67
+GAM-CASAS-0577,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Pedro El Chico,Se vende casa Norte 86 A #6554,7750000.0,318.0,24371.07,4.0,3.0,0.75,19.472,-99.098,305.65,1112.64
+GAM-CASAS-0578,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Sin calle,5800000.0,169.0,34319.53,3.0,2.0,0.67,19.475,-99.118,333.58,678.37
+GAM-CASAS-0579,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,314,5300000.0,450.0,11777.78,1.0,1.0,1.0,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0580,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Guadalupe Proletaria,calle 3 #21,2231000.0,370.0,6029.73,5.0,4.0,0.8,19.525,-99.148,638.72,2693.85
+GAM-CASAS-0581,Propiedades.com,Propiedades.com,Gustavo A. Madero,Planetario Lindavista,Sin calle,13850000.0,530.0,26132.08,4.0,3.0,0.75,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0582,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San Bartolo Atepehuacan,Sin calle,8750000.0,180.0,48611.11,2.0,1.0,0.5,19.485,-99.135,555.97,258.6
+GAM-CASAS-0583,Propiedades.com,Propiedades.com,Gustavo A. Madero,Héroes de Cerro Prieto,CAIRO #0,685000.0,286.0,2395.1,3.0,2.0,0.67,19.472,-99.09,938.42,1950.72
+GAM-CASAS-0584,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,26000000.0,523.0,49713.19,5.0,3.0,0.6,19.488,-99.128,458.45,485.77
+GAM-CASAS-0585,Propiedades.com,Propiedades.com,Gustavo A. Madero,Héroes de Cerro Prieto,venta disponible en PESETAS #53,625000.0,324.0,1929.01,4.0,4.0,1.0,19.472,-99.09,938.42,1950.72
+GAM-CASAS-0586,Propiedades.com,Propiedades.com,Gustavo A. Madero,San José de La Escalera,Venta  CALLE 1 C #76,5450000.0,301.0,18106.31,6.0,8.0,1.33,19.515,-99.152,920.51,1606.01
+GAM-CASAS-0587,Propiedades.com,Propiedades.com,Gustavo A. Madero,Tres Estrellas,Venta  Av. Talisman #3013,1086150.0,212.0,5123.35,3.0,3.0,1.0,19.479,-99.117,152.82,260.43
+GAM-CASAS-0588,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Santiago Atepetlac,Sin calle,1950000.0,108.0,18055.56,2.0,1.0,0.5,19.512,-99.148,943.49,1251.72
+GAM-CASAS-0589,Propiedades.com,Propiedades.com,Gustavo A. Madero,15 de Agosto,General Antonio Neri #18,6000000.0,198.0,30303.03,10.0,4.0,0.4,19.483,-99.102,902.54,358.75
+GAM-CASAS-0590,Propiedades.com,Propiedades.com,Gustavo A. Madero,Santa Rosa,Sin calle,1600000.0,59.0,27118.64,2.0,1.0,0.5,19.522,-99.16,1587.7,2615.02
+GAM-CASAS-0591,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,10400000.0,369.0,28184.28,4.0,3.0,0.75,19.488,-99.128,458.45,485.77
+GAM-CASAS-0592,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Victoria II,Sin calle,3400000.0,232.0,14655.17,,4.0,,19.485,-99.102,1006.18,253.79
+GAM-CASAS-0593,Propiedades.com,"Inmuebles24, MercadoLibre, Propiedades.com",Gustavo A. Madero,Campestre Aragón,Sin calle,5985000.0,202.0,29628.71,3.0,2.0,0.67,19.472,-99.075,1305.73,2670.81
+GAM-CASAS-0594,Propiedades.com,Propiedades.com,Gustavo A. Madero,El Risco CTM,C. 36 Luis Yuren 7-mz 7,2400000.0,73.0,32876.71,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0595,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,Sin calle,12350000.0,220.0,56136.36,4.0,4.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0596,Propiedades.com,Propiedades.com,Gustavo A. Madero,C.T.M. El Risco,Vicente García González #s/n,2486000.0,190.0,13084.21,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0597,Propiedades.com,Propiedades.com,Gustavo A. Madero,Estrella,venta disponible en Diamante #28,800000.0,112.0,7142.86,3.0,1.0,0.33,19.479,-99.117,152.82,260.43
+GAM-CASAS-0598,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,CALLE 1509 #160,624000.0,168.0,3714.29,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0599,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Cienfuegos #779,14000000.0,356.0,39325.84,5.0,4.0,0.8,19.488,-99.128,458.45,485.77
+GAM-CASAS-0600,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,venta disponible en INSURGENTES NORTE #1420Int. OFICINAS DE ATENCION,1796000.0,113.0,15893.81,3.0,3.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0601,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,venta disponible en Ricarte #100Int. OFICINA DE ATENCION,2656000.0,167.0,15904.19,3.0,4.0,1.33,19.481,-99.129,611.27,422.22
+GAM-CASAS-0602,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Se vende casa montevideo #snInt. sn,9000000.0,500.0,18000.0,5.0,7.0,1.4,19.481,-99.129,611.27,422.22
+GAM-CASAS-0603,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,AV. 511 #00,775000.0,83.0,9337.35,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0604,Propiedades.com,Propiedades.com,Gustavo A. Madero,Defensores de la República,Nte. 7-A,3500000.0,86.0,40697.67,1.0,1.0,1.0,19.473,-99.138,1069.74,360.35
+GAM-CASAS-0605,Propiedades.com,Propiedades.com,Gustavo A. Madero,Estrella,PROLONGACIÓN RUBI #20 #20,7000000.0,220.0,31818.18,3.0,2.0,0.67,19.479,-99.117,152.82,260.43
+GAM-CASAS-0606,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,313 #0,630000.0,115.0,5478.26,3.0,2.0,0.67,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0607,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,7660000.0,300.0,25533.33,4.0,1.0,0.25,19.481,-99.129,611.27,422.22
+GAM-CASAS-0608,Propiedades.com,Propiedades.com,Gustavo A. Madero,El Coyol,C. 311 29,6299000.0,390.0,16151.28,3.0,3.0,1.0,19.482,-99.078,2027.76,2791.67
+GAM-CASAS-0609,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,San Juan de Aragón IV Sección,Av 625,4000000.0,300.0,13333.33,5.0,3.0,0.6,19.458,-99.082,839.51,973.46
+GAM-CASAS-0610,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Pedro Zacatenco,Venta  Parangua #217,6038000.0,305.0,19796.72,4.0,4.0,1.0,19.508,-99.12,1099.93,1523.69
+GAM-CASAS-0611,Propiedades.com,Propiedades.com,Gustavo A. Madero,C.T.M. El Risco,Vicente García González #121,3500000.0,109.0,32110.09,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0612,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,MONTIEL #206Int. Oficinas De Atencion,1678000.0,91.0,18439.56,3.0,2.0,0.67,19.488,-99.128,458.45,485.77
+GAM-CASAS-0613,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Casas Alemán,Sin calle,1354800.0,201.0,6740.3,4.0,3.0,0.75,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0614,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Se vende casa RICARTE #120Int. Oficina De Atencion,1382000.0,68.0,20323.53,2.0,2.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0615,Propiedades.com,Propiedades.com,Gustavo A. Madero,Acueducto de Guadalupe,C de los Fiordos 21 #S/N,980000.0,153.0,6405.23,2.0,1.0,0.5,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0616,Propiedades.com,"MercadoLibre, Propiedades.com",Gustavo A. Madero,Cuautepec de Madero,Sin calle,3150000.0,108.0,29166.67,3.0,1.0,0.33,19.548,-99.132,3357.24,1155.53
+GAM-CASAS-0617,Propiedades.com,Propiedades.com,Gustavo A. Madero,Estrella,Prol Rubi #20,7000000.0,220.0,31818.18,3.0,3.0,1.0,19.479,-99.117,152.82,260.43
+GAM-CASAS-0618,Propiedades.com,Propiedades.com,Gustavo A. Madero,Insurgentes Nte.,Insurgentes Nte.,888500.0,210.0,4230.95,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0619,Propiedades.com,Propiedades.com,Gustavo A. Madero,C.T.M. Atzacoalco,Av. Fernando Amilpa #105,1000000.0,234.0,4273.5,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0620,Propiedades.com,Propiedades.com,Gustavo A. Madero,Guadalupe Insurgentes,SOTERO PRIETO #6,4500000.0,220.0,20454.55,3.0,3.0,1.0,19.474,-99.121,544.74,846.0
+GAM-CASAS-0621,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,760000.0,140.0,5428.57,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0622,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,1316900.0,119.0,11066.39,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0623,Propiedades.com,Propiedades.com,Gustavo A. Madero,Gabriel Hernández,Sin calle,2459000.0,309.0,7957.93,5.0,3.0,0.6,19.498,-99.105,1806.51,1413.58
+GAM-CASAS-0624,Propiedades.com,Propiedades.com,Gustavo A. Madero,Montevideo,venta disponible en Sin nombre de calle,1623000.0,78.0,20807.69,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0625,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX,Sin calle,5250000.0,200.0,26250.0,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0626,Propiedades.com,Propiedades.com,Gustavo A. Madero,Martín Carrera,Se vende casa GRA. LÓPEZ DE SANTA ANNA #00,6190000.0,350.0,17685.71,4.0,2.0,0.5,19.486,-99.108,699.34,385.32
+GAM-CASAS-0627,Propiedades.com,Propiedades.com,Gustavo A. Madero,Acueducto de Guadalupe,Sin calle,4269265.0,50.0,85385.3,3.0,2.0,0.67,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0628,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Ricarte #120Int. OFICINA DE ATENCION,2204000.0,154.0,14311.69,3.0,3.0,1.0,19.475,-99.118,333.58,678.37
+GAM-CASAS-0629,Propiedades.com,Propiedades.com,Gustavo A. Madero,Torres Lindavista,guanabara #19,14500000.0,150.0,96666.67,1.0,2.0,2.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0630,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón VII Sección,Av. 491 #55,5100000.0,180.0,28333.33,3.0,3.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0631,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón,Venta  C 625 ##,1100000.0,300.0,3666.67,4.0,3.0,0.75,19.458,-99.082,839.51,973.46
+GAM-CASAS-0632,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Progreso Nacional,Venta  Sin nombre de calle,783000.0,148.0,5290.54,5.0,3.0,0.6,19.522,-99.151,666.99,2364.87
+GAM-CASAS-0633,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón IV Sección,Av. 621 #49,5470000.0,234.0,23376.07,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0634,Propiedades.com,Propiedades.com,Gustavo A. Madero,Villa de Aragón,Sin calle,890000.0,140.0,6357.14,3.0,2.0,0.67,19.452,-99.068,913.94,2108.5
+GAM-CASAS-0635,Propiedades.com,Propiedades.com,Gustavo A. Madero,CDMX #s/n,Sin calle,5950000.0,286.0,20804.2,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0636,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,1494000.0,104.0,14365.38,3.0,2.0,0.67,19.481,-99.129,611.27,422.22
+GAM-CASAS-0637,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sierravista #287,6500000.0,280.0,23214.29,3.0,2.0,0.67,19.488,-99.128,458.45,485.77
+GAM-CASAS-0638,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Av Benito Juarez #50,1293530.0,69.0,18746.81,2.0,2.0,1.0,19.481,-99.129,611.27,422.22
+GAM-CASAS-0639,Propiedades.com,Propiedades.com,Gustavo A. Madero,Industrial,Aurora #8 Bis,4950000.0,312.0,15865.38,3.0,1.0,0.33,19.475,-99.118,333.58,678.37
+GAM-CASAS-0640,Propiedades.com,Propiedades.com,Gustavo A. Madero,Campestre Aragón,Camino del Porvenir #17,2000000.0,115.0,17391.3,4.0,2.0,0.5,19.472,-99.075,1305.73,2670.81
+GAM-CASAS-0641,Propiedades.com,Propiedades.com,Gustavo A. Madero,Aragón Inguarán,Sin calle,5700000.0,370.0,15405.41,7.0,4.0,0.57,19.472,-99.11,444.78,156.95
+GAM-CASAS-0642,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón I Secc,Av 511 230,1568900.0,250.0,6275.6,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0643,Propiedades.com,Propiedades.com,Gustavo A. Madero,15 de Agosto,Col. 15 de Agosto,6200000.0,198.0,31313.13,10.0,,,19.483,-99.102,902.54,358.75
+GAM-CASAS-0644,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Casas Alemán,Sin calle,4260000.0,302.0,14105.96,6.0,,,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0645,Propiedades.com,Propiedades.com,Gustavo A. Madero,Nueva Atzacoalco,Venta  Av. Ing. Eduardo Molina 2227,5800000.0,242.0,23966.94,3.0,2.0,0.67,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0646,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Juan de Aragón VI Sección,1507,5980000.0,303.0,19735.97,7.0,,,19.458,-99.082,839.51,973.46
+GAM-CASAS-0647,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,32800000.0,1390.0,23597.12,7.0,,,19.488,-99.128,458.45,485.77
+GAM-CASAS-0648,Propiedades.com,Propiedades.com,Gustavo A. Madero,Gertrudis Sánchez 3a Sección,Se vende casa Norte 86,6800000.0,421.0,16152.02,3.0,,,19.468,-99.098,305.65,1218.72
+GAM-CASAS-0649,Propiedades.com,Propiedades.com,Gustavo A. Madero,Zona Escolar,Sin calle,6300000.0,487.0,12936.34,4.0,,,19.542,-99.135,2661.31,1779.12
+GAM-CASAS-0650,Propiedades.com,Propiedades.com,Gustavo A. Madero,Ampliación Mártires de Río Blanco,Oriente 76 A,5500000.0,193.0,28497.41,4.0,,,19.468,-99.122,1188.39,1071.46
+GAM-CASAS-0651,Propiedades.com,Propiedades.com,Gustavo A. Madero,Cocoyotes,venta disponible en 3ra Privada de Avenida Del Castillo,3100000.0,240.0,12916.67,3.0,,,19.559,-99.132,4266.96,333.42
+GAM-CASAS-0652,Propiedades.com,Propiedades.com,Gustavo A. Madero,San Pedro El Chico,norte 84,6250000.0,322.0,19409.94,3.0,,,19.472,-99.098,305.65,1112.64
+GAM-CASAS-0653,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,13700000.0,417.0,32853.72,3.0,,,19.488,-99.128,458.45,485.77
+GAM-CASAS-0654,Propiedades.com,Propiedades.com,Gustavo A. Madero,Privada de Francisco moreno,Privada de Francisco moreno,9500000.0,560.0,16964.29,1.0,,,19.482,-99.115,544.73,340.03
+GAM-CASAS-0655,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Sur,Sin calle,17950000.0,407.0,44103.19,3.0,,,19.481,-99.129,611.27,422.22
+GAM-CASAS-0656,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial Zacatenco,Sin calle,7000000.0,171.0,40935.67,2.0,,,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0657,Propiedades.com,Propiedades.com,Gustavo A. Madero,Cuchilla La Joya,Norte 66 A,5000000.0,179.0,27932.96,4.0,,,19.498,-99.128,806.1,1365.48
+GAM-CASAS-0658,Propiedades.com,Propiedades.com,Gustavo A. Madero,Residencial Zacatenco,Sin calle,16500000.0,674.0,24480.71,5.0,,,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0659,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,27000000.0,709.0,38081.81,5.0,,,19.488,-99.128,458.45,485.77
+GAM-CASAS-0660,Propiedades.com,Propiedades.com,Gustavo A. Madero,Santa Isabel Tola,Sin calle,7272563.0,414.0,17566.58,,,,19.492,-99.118,305.63,1212.07
+GAM-CASAS-0661,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Arequipa,35700000.0,1300.0,27461.54,4.0,,,19.488,-99.128,458.45,485.77
+GAM-CASAS-0662,Propiedades.com,Propiedades.com,Gustavo A. Madero,La Joya,Norte 74 a,7200000.0,333.0,21621.62,6.0,,,19.498,-99.128,806.1,1365.48
+GAM-CASAS-0663,Propiedades.com,Propiedades.com,Gustavo A. Madero,Lindavista Norte,Sin calle,10300000.0,240.0,42916.67,4.0,,,19.488,-99.128,458.45,485.77
+GAM-CASAS-0664,Propiedades.com,Propiedades.com,Gustavo A. Madero,Constitución de La República,Sin calle,4200000.0,218.0,19266.06,4.0,,,19.48,-99.095,1229.3,1148.17
+GAM-CASAS-0665,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Sur,Pernambuco 728,17950000.0,608.0,29523.03,3.0,3.0,1.0,19.481,-99.129,611.27,422.22
+GAM-CASAS-0666,Inmuebles24,Inmuebles24,Gustavo A. Madero,Torres Lindavista,jovellanos,19800000.0,395.0,50126.58,3.0,4.0,1.33,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0667,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Norte,Managua,12800000.0,318.0,40251.57,5.0,4.0,0.8,19.488,-99.128,458.45,485.77
+GAM-CASAS-0668,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Sur,"Coban, #S/N",7990000.0,156.0,51217.95,3.0,2.0,0.67,19.481,-99.129,611.27,422.22
+GAM-CASAS-0669,Inmuebles24,"Inmuebles24, MercadoLibre",Gustavo A. Madero,Lindavista Sur,Cali 638,12500000.0,258.0,48449.61,7.0,,,19.481,-99.129,611.27,422.22
+GAM-CASAS-0670,Inmuebles24,Inmuebles24,Gustavo A. Madero,Santa Maria Ticoman,Educadores Mexicanos,6500000.0,207.0,31400.97,4.0,2.0,0.5,19.512,-99.135,938.34,1932.53
+GAM-CASAS-0671,Inmuebles24,Inmuebles24,Gustavo A. Madero,Guadalupe Insurgentes,Avenida Insurgentes Norte,6990000.0,284.0,24612.68,3.0,2.0,0.67,19.474,-99.121,544.74,846.0
+GAM-CASAS-0672,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Juan de Aragón,Av.561,9000000.0,160.0,56250.0,4.0,4.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0673,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Felipe de Jesús,Atoyac 411,4495000.0,196.0,22933.67,6.0,2.0,0.33,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0674,Inmuebles24,Inmuebles24,Gustavo A. Madero,Nueva Atzacoalco,C. 321 529,4100000.0,200.0,20500.0,4.0,2.0,0.5,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0675,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Sur,Avenida Montiel Esq. con Entre Coquinbo y Curazao,14000000.0,271.0,51660.52,5.0,3.0,0.6,19.481,-99.129,611.27,422.22
+GAM-CASAS-0676,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Norte,Sin calle,12500000.0,440.0,28409.09,4.0,2.0,0.5,19.488,-99.128,458.45,485.77
+GAM-CASAS-0677,Inmuebles24,Inmuebles24,Gustavo A. Madero,Vallejo,Calzada,2267000.0,105.0,21590.48,3.0,2.0,0.67,19.472,-99.141,983.44,502.67
+GAM-CASAS-0678,Inmuebles24,Inmuebles24,Gustavo A. Madero,Providencia,"Calle Volcán de Santa María No. 38, Ampliación",2600000.0,91.0,28571.43,4.0,2.0,0.5,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0679,Inmuebles24,Inmuebles24,Gustavo A. Madero,Acueducto de Guadalupe,Cda. Av. Acueducto 842,6250000.0,190.0,32894.74,6.0,2.0,0.33,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0680,Inmuebles24,Inmuebles24,Gustavo A. Madero,Industrial,Unión 94,6500000.0,103.0,63106.8,3.0,3.0,1.0,19.475,-99.118,333.58,678.37
+GAM-CASAS-0681,Inmuebles24,Inmuebles24,Gustavo A. Madero,Gustavo A. Madero,Habana 194,6990000.0,165.0,42363.64,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0682,Inmuebles24,Inmuebles24,Gustavo A. Madero,Constitución de La República,Casa en Esquina en Venta Para Remodelar en Constitución de la República,3900000.0,95.0,41052.63,3.0,2.0,0.67,19.48,-99.095,1229.3,1148.17
+GAM-CASAS-0683,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,Sin calle,1179000.0,60.0,19650.0,2.0,1.0,0.5,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0684,Inmuebles24,Inmuebles24,Gustavo A. Madero,Valle Del Tepeyac,Calle Jujuy 527,9500000.0,156.0,60897.44,4.0,2.0,0.5,19.495,-99.138,638.75,877.62
+GAM-CASAS-0685,Inmuebles24,Inmuebles24,Gustavo A. Madero,Providencia,Estado de Baja California Sur,4600000.0,373.0,12332.44,5.0,5.0,1.0,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0686,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,Sin calle,2267000.0,105.0,21590.48,3.0,2.0,0.67,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0687,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Bartolo Atepehuacan,Buenavista No. 621,13850000.0,234.0,59188.03,4.0,3.0,0.75,19.498,-99.125,938.36,1540.18
+GAM-CASAS-0688,Inmuebles24,Inmuebles24,Gustavo A. Madero,Residencial Zacatenco,San Juan de Puerto Rico Col,16500000.0,395.0,41772.15,5.0,4.0,0.8,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0689,Inmuebles24,Inmuebles24,Gustavo A. Madero,Panamericana,Norte 3 A,5750000.0,135.0,42592.59,4.0,5.0,1.25,19.483,-99.139,711.96,462.76
+GAM-CASAS-0690,Inmuebles24,Inmuebles24,Gustavo A. Madero,Casas Alemán,"Puerto Madero 131, Ampliación",5750000.0,272.0,21139.71,14.0,9.0,0.64,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0691,Inmuebles24,Inmuebles24,Gustavo A. Madero,Industrial,Corona 262,11899000.0,418.0,28466.51,6.0,4.0,0.67,19.475,-99.118,333.58,678.37
+GAM-CASAS-0692,Inmuebles24,Inmuebles24,Gustavo A. Madero,Av. Acueducto,Sin calle,1179000.0,49.0,24061.22,2.0,1.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0693,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,Sin calle,1936000.0,105.0,18438.1,3.0,1.0,0.33,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0694,Inmuebles24,Inmuebles24,Gustavo A. Madero,Acueducto de Guadalupe,Lindavista Vallejo,1936000.0,105.0,18438.1,3.0,1.0,0.33,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0695,Inmuebles24,Inmuebles24,Gustavo A. Madero,Torres Lindavista,Sin calle,1506000.0,90.0,16733.33,2.0,1.0,0.5,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0696,Inmuebles24,Inmuebles24,Gustavo A. Madero,Puerto Mazatlan,Sin calle,5450000.0,300.0,18166.67,6.0,2.0,0.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0697,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Norte,Ambato,8700000.0,160.0,54375.0,3.0,2.0,0.67,19.488,-99.128,458.45,485.77
+GAM-CASAS-0698,Inmuebles24,Inmuebles24,Gustavo A. Madero,Santa Rosa,Calle 28 A,5950000.0,160.0,37187.5,6.0,2.0,0.33,19.522,-99.16,1587.7,2615.02
+GAM-CASAS-0699,Inmuebles24,Inmuebles24,Gustavo A. Madero,Torres Lindavista,Guantánamo 2,12700000.0,180.0,70555.56,4.0,3.0,0.75,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0700,Inmuebles24,"Inmuebles24, MercadoLibre",Gustavo A. Madero,Lindavista Norte,Sin calle,13490000.0,300.0,44966.67,4.0,5.0,1.25,19.488,-99.128,458.45,485.77
+GAM-CASAS-0701,Inmuebles24,"Inmuebles24, MercadoLibre",Gustavo A. Madero,Vasco de Quiroga,Gustavo Madero,4100000.0,350.0,11714.29,8.0,5.0,0.62,19.492,-99.095,2062.25,1235.29
+GAM-CASAS-0702,Inmuebles24,"Inmuebles24, MercadoLibre",Gustavo A. Madero,Torres Lindavista,Sin calle,16700000.0,420.0,39761.9,4.0,4.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0703,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Norte,Arequipa 836,35700000.0,1470.0,24285.71,4.0,5.0,1.25,19.488,-99.128,458.45,485.77
+GAM-CASAS-0704,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Norte,Cali 835,32800000.0,1405.0,23345.2,7.0,9.0,1.29,19.488,-99.128,458.45,485.77
+GAM-CASAS-0705,Inmuebles24,Inmuebles24,Gustavo A. Madero,La Malinche,Norte 86,5900000.0,150.0,39333.33,6.0,4.0,0.67,19.465,-99.102,594.2,1045.1
+GAM-CASAS-0706,Inmuebles24,Inmuebles24,Gustavo A. Madero,Providencia,"Calle Estado de Nuevo León 28, Ampliación",4550000.0,198.0,22979.8,6.0,3.0,0.5,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0707,Inmuebles24,Inmuebles24,Gustavo A. Madero,Santa Maria Ticoman,15 de septiembre 62,9405000.0,208.0,45216.35,5.0,3.0,0.6,19.512,-99.135,938.34,1932.53
+GAM-CASAS-0708,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Sur,Av. Montevideo,38000000.0,1718.0,22118.74,8.0,6.0,0.75,19.481,-99.129,611.27,422.22
+GAM-CASAS-0709,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Pedro El Chico,Eduardo Molina 6531,6000000.0,195.0,30769.23,4.0,2.0,0.5,19.472,-99.098,305.65,1112.64
+GAM-CASAS-0710,Inmuebles24,"Inmuebles24, MercadoLibre",Gustavo A. Madero,Residencial Zacatenco,Casa en Venta en Gustavo Madero,4100000.0,350.0,11714.29,8.0,5.0,0.62,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0711,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Sur,Bogotá 701,7550000.0,100.0,75500.0,4.0,3.0,0.75,19.481,-99.129,611.27,422.22
+GAM-CASAS-0712,Inmuebles24,Inmuebles24,Gustavo A. Madero,Aragón La Villa,Alberto Herrera,2169000.0,105.0,20657.14,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0713,Inmuebles24,Inmuebles24,Gustavo A. Madero,La Purísima TicomAn,TUXTEPEX 35,6550000.0,262.0,25000.0,2.0,1.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0714,Inmuebles24,Inmuebles24,Gustavo A. Madero,Malinche,Sin calle,5300000.0,160.0,33125.0,9.0,4.0,0.44,19.465,-99.102,594.2,1045.1
+GAM-CASAS-0715,Inmuebles24,Inmuebles24,Gustavo A. Madero,Salvador Díaz Mirón,Norte 74 7923,4350000.0,153.0,28431.37,4.0,3.0,0.75,19.481,-99.101,950.0,596.36
+GAM-CASAS-0716,Inmuebles24,Inmuebles24,Gustavo A. Madero,Guadalupe Tepeyac,Carlota,5500000.0,148.0,37162.16,3.0,2.0,0.67,19.469,-99.117,742.24,779.41
+GAM-CASAS-0717,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,Manizales 759,7890000.0,111.0,71081.08,4.0,1.0,0.25,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0718,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Juan de Aragón,6a. 525 161,4800000.0,170.0,28235.29,7.0,3.0,0.43,19.458,-99.082,839.51,973.46
+GAM-CASAS-0719,Inmuebles24,Inmuebles24,Gustavo A. Madero,La Joya,Norte 74 3514,6600000.0,163.0,40490.8,6.0,4.0,0.67,19.498,-99.128,806.1,1365.48
+GAM-CASAS-0720,Inmuebles24,Inmuebles24,Gustavo A. Madero,Torres Lindavista,Sin calle,16500000.0,63.0,261904.76,3.0,3.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0721,Inmuebles24,Inmuebles24,Gustavo A. Madero,Gabriel HernAndez,Cabo Gris 161,3730000.0,125.0,29840.0,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0722,Inmuebles24,Inmuebles24,Gustavo A. Madero,Pradera,"Sierra Madre Oriental 81, La",4550000.0,160.0,28437.5,4.0,2.0,0.5,19.482,-99.088,1833.85,1757.9
+GAM-CASAS-0723,Inmuebles24,Inmuebles24,Gustavo A. Madero,Torres Lindavista,Calzada Santa Ana 37,14700000.0,242.0,60743.8,3.0,2.0,0.67,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0724,Inmuebles24,Inmuebles24,Gustavo A. Madero,Gustavo A. Madero,Sin calle,1315000.0,120.0,10958.33,2.0,1.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0725,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Pedro El Chico,Calle Norte 92 6625,10000000.0,202.0,49504.95,8.0,6.0,0.75,19.472,-99.098,305.65,1112.64
+GAM-CASAS-0726,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Juan de Aragón,Av. 531,5200000.0,120.0,43333.33,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0727,Inmuebles24,Inmuebles24,Gustavo A. Madero,Residencial Zacatenco,Calle Catamarca,7500000.0,240.0,31250.0,3.0,1.0,0.33,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0728,Inmuebles24,Inmuebles24,Gustavo A. Madero,Emiliano Zapata,Oriente 95 número,5100000.0,170.0,30000.0,6.0,3.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0729,Inmuebles24,Inmuebles24,Gustavo A. Madero,El Coyol,Calle 317 317,4200000.0,160.0,26250.0,3.0,1.0,0.33,19.482,-99.078,2027.76,2791.67
+GAM-CASAS-0730,Inmuebles24,Inmuebles24,Gustavo A. Madero,Ampliación Gabriel HernAndez,Prof. Pablo Moreno Mz. 63 Lt. 2,3300000.0,146.0,22602.74,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0731,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Norte,Sierravista Av,13490000.0,300.0,44966.67,4.0,4.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0732,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Sur,Avenida Otavalo,9200000.0,207.0,44444.44,4.0,4.0,1.0,19.481,-99.129,611.27,422.22
+GAM-CASAS-0733,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Bartolo Atepehuacan,Atepehuacan,7800000.0,302.0,25827.81,9.0,4.0,0.44,19.485,-99.135,555.97,258.6
+GAM-CASAS-0734,Inmuebles24,Inmuebles24,Gustavo A. Madero,Ex Escuela de Tiro,Chelines 8,2825000.0,148.0,19087.84,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0735,Inmuebles24,Inmuebles24,Gustavo A. Madero,Torres Lindavista,Guantánamo,11750000.0,168.0,69940.48,3.0,3.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0736,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Bartolo Atepehuacan,Cerrada de Otavalo 172,149500008.0,317.0,471608.86,11.0,7.0,0.64,19.485,-99.135,555.97,258.6
+GAM-CASAS-0737,Inmuebles24,Inmuebles24,Gustavo A. Madero,Ex Escuela de Tiro,Pengos 4,3750000.0,148.0,25337.84,7.0,6.0,0.86,19.482,-99.115,544.73,340.03
+GAM-CASAS-0738,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Sur,Callao,2530000.0,105.0,24095.24,3.0,2.0,0.67,19.481,-99.129,611.27,422.22
+GAM-CASAS-0739,Inmuebles24,Inmuebles24,Gustavo A. Madero,Tepeyac Insurgentes,Habana 93,5995000.0,231.0,25952.38,4.0,3.0,0.75,19.483,-99.122,385.17,460.19
+GAM-CASAS-0740,Inmuebles24,Inmuebles24,Gustavo A. Madero,Villa de Aragón,Villa Tenochtitlan,5800000.0,287.0,20209.06,4.0,3.0,0.75,19.452,-99.068,913.94,2108.5
+GAM-CASAS-0741,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Norte,Pernambuco 890,89500000.0,2260.0,39601.77,10.0,6.0,0.6,19.488,-99.128,458.45,485.77
+GAM-CASAS-0742,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Juan de Aragón,Avenida,5400000.0,160.0,33750.0,3.0,2.0,0.67,19.458,-99.082,839.51,973.46
+GAM-CASAS-0743,Inmuebles24,Inmuebles24,Gustavo A. Madero,Torres Lindavista,Sucre Sur 69,12370000.0,280.0,44178.57,4.0,4.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0744,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,Casa en Venta en,22500000.0,405.0,55555.56,5.0,4.0,0.8,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0745,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,"Calle 17 de Mayo, Planetario",13400000.0,310.0,43225.81,3.0,3.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0746,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Juan de Aragón,Andador 647,3400000.0,90.0,37777.78,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0747,Inmuebles24,Inmuebles24,Gustavo A. Madero,Providencia,Estado de Durango 260,3600000.0,140.0,25714.29,4.0,3.0,0.75,19.478,-99.082,1479.35,2484.51
+GAM-CASAS-0748,Inmuebles24,Inmuebles24,Gustavo A. Madero,Gustavo A. Madero,Calle 10  620,5700000.0,212.0,26886.79,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0749,Inmuebles24,Inmuebles24,Gustavo A. Madero,Zona Escolar,MAESTRO RURAL 8,3200000.0,256.0,12500.0,4.0,1.0,0.25,19.542,-99.135,2661.31,1779.12
+GAM-CASAS-0750,Inmuebles24,Inmuebles24,Gustavo A. Madero,Faja de Oro,Norte 74-A,9900000.0,135.0,73333.33,2.0,1.0,0.5,19.471,-99.115,621.33,691.37
+GAM-CASAS-0751,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Sur,Chiclayo 665,13800000.0,313.0,44089.46,4.0,1.0,0.25,19.481,-99.129,611.27,422.22
+GAM-CASAS-0752,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Felipe de Jesús,CUMBRES DE ACULZINGO 789,4800000.0,200.0,24000.0,6.0,6.0,1.0,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0753,Inmuebles24,Inmuebles24,Gustavo A. Madero,Constitución de La República,Basilio Pérez,9490000.0,196.0,48418.37,3.0,3.0,1.0,19.48,-99.095,1229.3,1148.17
+GAM-CASAS-0754,Inmuebles24,Inmuebles24,Gustavo A. Madero,Ampliación Gabriel HernAndez,Rafael Ramírez 36,4100000.0,142.0,28873.24,9.0,9.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0755,Inmuebles24,Inmuebles24,Gustavo A. Madero,La Joyita,Norte 50,5400000.0,129.0,41860.47,8.0,4.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0756,Inmuebles24,Inmuebles24,Gustavo A. Madero,La Joya,Norte 0070-A,4900000.0,136.0,36029.41,4.0,4.0,1.0,19.498,-99.128,806.1,1365.48
+GAM-CASAS-0757,Inmuebles24,Inmuebles24,Gustavo A. Madero,25 de julio,Cda. 16 de septiembre 17,3250000.0,250.0,13000.0,6.0,3.0,0.5,19.498,-99.082,3552.56,2739.97
+GAM-CASAS-0758,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Juan de Aragón,Av 499 85,6450000.0,298.0,21644.3,3.0,3.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0759,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Juan de Aragón,Av. Río Consulado,6500000.0,237.0,27426.16,3.0,1.0,0.33,19.458,-99.082,839.51,973.46
+GAM-CASAS-0760,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,Ambato,8900000.0,373.0,23860.59,4.0,3.0,0.75,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0761,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,Calzada Azcapotzalco - La Villa 1246,10000000.0,143.0,69930.07,3.0,1.0,0.33,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0762,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Jose de la Escalera,Sin calle,6890000.0,190.0,36263.16,9.0,6.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0763,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,Eten 1258,1315000.0,120.0,10958.33,2.0,1.0,0.5,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0764,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,Riobamba No. 875,35890000.0,740.0,48500.0,4.0,4.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0765,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Juan de Aragón,Av,4800000.0,220.0,21818.18,7.0,3.0,0.43,19.458,-99.082,839.51,973.46
+GAM-CASAS-0766,Inmuebles24,Inmuebles24,Gustavo A. Madero,Ampliación Progreso Nacional,Calle,3990000.0,300.0,13300.0,5.0,3.0,0.6,19.522,-99.151,666.99,2364.87
+GAM-CASAS-0767,Inmuebles24,Inmuebles24,Gustavo A. Madero,Gustavo A. Madero,Av. 515,5500000.0,200.0,27500.0,7.0,3.0,0.43,19.482,-99.115,544.73,340.03
+GAM-CASAS-0768,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,Latacunga,12875000.0,270.0,47685.19,4.0,2.0,0.5,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0769,Inmuebles24,Inmuebles24,Gustavo A. Madero,Acueducto de Guadalupe,Boca del rio,4500000.0,370.0,12162.16,3.0,3.0,1.0,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0770,Inmuebles24,Inmuebles24,Gustavo A. Madero,Estrella,Prolongación de Turquesa 33,7800000.0,161.0,48447.2,5.0,4.0,0.8,19.479,-99.117,152.82,260.43
+GAM-CASAS-0771,Inmuebles24,Inmuebles24,Gustavo A. Madero,Estrella,"Pedernal No. 6215, Tres",8300000.0,200.0,41500.0,11.0,9.0,0.82,19.479,-99.117,152.82,260.43
+GAM-CASAS-0772,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Norte,Zaruma,9300000.0,180.0,51666.67,5.0,3.0,0.6,19.488,-99.128,458.45,485.77
+GAM-CASAS-0773,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,Bonao al 100,9700000.0,140.0,69285.71,3.0,3.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0774,Inmuebles24,Inmuebles24,Gustavo A. Madero,Industrial,Ingeniero Carlos Daza,6800000.0,256.0,26562.5,4.0,2.0,0.5,19.475,-99.118,333.58,678.37
+GAM-CASAS-0775,Inmuebles24,Inmuebles24,Gustavo A. Madero,Industrial,Ing. Manuel Marroquín y Rivera 0,6499000.0,160.0,40618.75,2.0,2.0,1.0,19.475,-99.118,333.58,678.37
+GAM-CASAS-0776,Inmuebles24,Inmuebles24,Gustavo A. Madero,La Joya,Norte 74 a,7200000.0,140.0,51428.57,6.0,4.0,0.67,19.498,-99.128,806.1,1365.48
+GAM-CASAS-0777,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Norte,Matanzas,23000000.0,630.0,36507.94,4.0,3.0,0.75,19.488,-99.128,458.45,485.77
+GAM-CASAS-0778,Inmuebles24,Inmuebles24,Gustavo A. Madero,Martín Carrera,José Joaquin Herrera 165,8245000.0,327.0,25214.07,6.0,5.0,0.83,19.486,-99.108,699.34,385.32
+GAM-CASAS-0779,Inmuebles24,Inmuebles24,Gustavo A. Madero,Industrial,Avenida Ingeniero Basiliso Romo Anguiano 103,13000000.0,495.0,26262.63,3.0,1.0,0.33,19.475,-99.118,333.58,678.37
+GAM-CASAS-0780,Inmuebles24,Inmuebles24,Gustavo A. Madero,Loma La Palma,FRANCISCO VILLA 47,3306000.0,176.0,18784.09,5.0,3.0,0.6,19.552,-99.138,3633.06,737.51
+GAM-CASAS-0781,Inmuebles24,Inmuebles24,Gustavo A. Madero,Acueducto de Guadalupe,De La Neblina,5100000.0,160.0,31875.0,4.0,2.0,0.5,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0782,Inmuebles24,Inmuebles24,Gustavo A. Madero,Magdalena de las Salinas,NORTE  17 A,4600000.0,85.0,54117.65,7.0,3.0,0.43,19.482,-99.14,569.37,322.44
+GAM-CASAS-0783,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Juan de Aragón III,Av,20000000.0,230.0,86956.52,8.0,8.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0784,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Norte,Chiclayo,14000000.0,380.0,36842.11,4.0,4.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0785,Inmuebles24,Inmuebles24,Gustavo A. Madero,Villa,Juan Diego 7,7800000.0,311.0,25080.39,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0786,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,"Av. de los 45 Metros, Planetario",8495000.0,123.0,69065.04,3.0,6.0,2.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0787,Inmuebles24,Inmuebles24,Gustavo A. Madero,Gustavo A. Madero,Sin calle,5250000.0,120.0,43750.0,4.0,1.0,0.25,19.482,-99.115,544.73,340.03
+GAM-CASAS-0788,Inmuebles24,Inmuebles24,Gustavo A. Madero,Industrial,Sin calle,5350000.0,160.0,33437.5,3.0,1.0,0.33,19.475,-99.118,333.58,678.37
+GAM-CASAS-0789,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Juan de Aragón III,Av,6000000.0,230.0,26086.96,3.0,3.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0790,Inmuebles24,Inmuebles24,Gustavo A. Madero,Industrial,Esperanza 152,8700000.0,156.0,55769.23,6.0,4.0,0.67,19.475,-99.118,333.58,678.37
+GAM-CASAS-0791,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Norte,Cuzco,14100000.0,319.0,44200.63,4.0,2.0,0.5,19.488,-99.128,458.45,485.77
+GAM-CASAS-0792,Inmuebles24,Inmuebles24,Gustavo A. Madero,Zona Escolar,Casa en Manuel Altamirano,4500000.0,275.0,16363.64,5.0,4.0,0.8,19.542,-99.135,2661.31,1779.12
+GAM-CASAS-0793,Inmuebles24,Inmuebles24,Gustavo A. Madero,Acueducto de Guadalupe,DE LA Ribera  50,5800000.0,160.0,36250.0,8.0,4.0,0.5,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0794,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Felipe de Jesús,Ayutla,2750000.0,180.0,15277.78,3.0,2.0,0.67,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0795,Inmuebles24,Inmuebles24,Gustavo A. Madero,Gustavo A. Madero,Av 525,4600000.0,158.0,29113.92,6.0,3.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0796,Inmuebles24,Inmuebles24,Gustavo A. Madero,Torres Lindavista,Guantánamo,11500000.0,168.0,68452.38,3.0,2.0,0.67,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0797,Inmuebles24,Inmuebles24,Gustavo A. Madero,Casas Alemán,"Puerto Papantla No. 6, Ampliación",3580000.0,136.0,26323.53,5.0,2.0,0.4,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0798,Inmuebles24,Inmuebles24,Gustavo A. Madero,Progreso Nacional,calle,3500000.0,197.0,17766.5,4.0,2.0,0.5,19.522,-99.151,666.99,2364.87
+GAM-CASAS-0799,Inmuebles24,"Inmuebles24, MercadoLibre",Gustavo A. Madero,Acueducto de Guadalupe,CALLE DE LA PLAYA,5200000.0,268.0,19402.99,4.0,3.0,0.75,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0800,Inmuebles24,Inmuebles24,Gustavo A. Madero,Industrial,Calle Tenayo,7150000.0,311.0,22990.35,4.0,3.0,0.75,19.475,-99.118,333.58,678.37
+GAM-CASAS-0801,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista,Otavalo,9200000.0,207.0,44444.44,3.0,4.0,1.33,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0802,Inmuebles24,Inmuebles24,Gustavo A. Madero,Lindavista Sur,Callao,20000000.0,450.0,44444.44,5.0,4.0,0.8,19.481,-99.129,611.27,422.22
+GAM-CASAS-0803,Inmuebles24,Inmuebles24,Gustavo A. Madero,Vallejo,FRANZ SCHUBERT,4100000.0,154.0,26623.38,3.0,2.0,0.67,19.472,-99.141,983.44,502.67
+GAM-CASAS-0804,Inmuebles24,Inmuebles24,Gustavo A. Madero,San Felipe de Jesús,Emiliano Zapata,3530000.0,150.0,23533.33,1.0,1.0,1.0,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0805,MercadoLibre,MercadoLibre,Gustavo A. Madero,Guadalupe Tepeyac,Martha 64,17999994.0,504.0,35714.27,8.0,9.0,1.12,19.469,-99.117,742.24,779.41
+GAM-CASAS-0806,MercadoLibre,MercadoLibre,Gustavo A. Madero,Guadalupe Insurgentes,Excelsior 24,5740000.0,278.0,20647.48,3.0,3.0,1.0,19.474,-99.121,544.74,846.0
+GAM-CASAS-0807,MercadoLibre,MercadoLibre,Gustavo A. Madero,Zona Escolar Oriente,Adolfo Ruiz Cortínez Lt 14 Mz 104,6900000.0,450.0,15333.33,5.0,2.0,0.4,19.542,-99.135,2661.31,1779.12
+GAM-CASAS-0808,MercadoLibre,MercadoLibre,Gustavo A. Madero,Casas Alemán,Sin calle,4100000.0,186.0,22043.01,4.0,2.0,0.5,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0809,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lindavista Sur,Sin calle,19900000.0,585.0,34017.09,4.0,3.0,0.75,19.481,-99.129,611.27,422.22
+GAM-CASAS-0810,MercadoLibre,MercadoLibre,Gustavo A. Madero,San Juan De Aragón VI Secc,Eje 5 Nte 214,7600000.0,290.0,26206.9,3.0,1.0,0.33,19.458,-99.082,839.51,973.46
+GAM-CASAS-0811,MercadoLibre,MercadoLibre,Gustavo A. Madero,Aragón La Villa,Sin calle,8350000.0,254.0,32874.02,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0812,MercadoLibre,MercadoLibre,Gustavo A. Madero,Anfora,Sin calle,6490000.0,301.0,21561.46,6.0,2.0,0.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0813,MercadoLibre,MercadoLibre,Gustavo A. Madero,Eva Samano De López Mateos,Sin calle,9500000.0,550.0,17272.73,6.0,3.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0814,MercadoLibre,MercadoLibre,Gustavo A. Madero,Acueducto De Guadalupe,De La Neblina 1 - 300,5100000.0,168.0,30357.14,4.0,2.0,0.5,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0815,MercadoLibre,MercadoLibre,Gustavo A. Madero,NORTE,Sin calle,4600000.0,204.0,22549.02,7.0,3.0,0.43,19.488,-99.128,458.45,485.77
+GAM-CASAS-0816,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lindavista Nte.,Sin calle,19900000.0,519.0,38342.97,5.0,4.0,0.8,19.488,-99.128,458.45,485.77
+GAM-CASAS-0817,MercadoLibre,MercadoLibre,Gustavo A. Madero,Guadalupe Insurgentes,Ing. Roberto Gayol 121,8850000.0,417.0,21223.02,4.0,3.0,0.75,19.474,-99.121,544.74,846.0
+GAM-CASAS-0818,MercadoLibre,MercadoLibre,Gustavo A. Madero,Smetana,Sin calle,3295000.0,139.0,23705.04,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0819,MercadoLibre,MercadoLibre,Gustavo A. Madero,Casas Alemán,Puerto Angel 117,1680000.0,136.0,12352.94,3.0,1.0,0.33,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0820,MercadoLibre,MercadoLibre,Gustavo A. Madero,Norte 74,Sin calle,4350000.0,226.0,19247.79,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0821,MercadoLibre,MercadoLibre,Gustavo A. Madero,La Joya,Nte. 1 - 300,5896000.0,389.0,15156.81,,,,19.498,-99.128,806.1,1365.48
+GAM-CASAS-0822,MercadoLibre,MercadoLibre,Gustavo A. Madero,Cuzco,Sin calle,14700000.0,379.0,38786.28,4.0,2.0,0.5,19.485,-99.129,419.31,298.74
+GAM-CASAS-0823,MercadoLibre,MercadoLibre,Gustavo A. Madero,Gam. Cdmx,Casa Multifamiliar En San Juan De Aragón Iii,6643700.0,580.0,11454.66,7.0,4.0,0.57,19.458,-99.082,839.51,973.46
+GAM-CASAS-0824,MercadoLibre,MercadoLibre,Gustavo A. Madero,Tores,Guanabara 44,60000.0,265.0,226.42,3.0,4.0,1.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0825,MercadoLibre,MercadoLibre,Gustavo A. Madero,Siete De Noviembre,Nte. 44 3618,5800000.0,100.0,58000.0,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0826,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lindavista Norte,Sin calle,12500000.0,400.0,31250.0,7.0,4.0,0.57,19.488,-99.128,458.45,485.77
+GAM-CASAS-0827,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lindavista Vallejo III Secc,Calz. Vallejo 720,5000000.0,80.0,62500.0,2.0,2.0,1.0,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0828,MercadoLibre,MercadoLibre,Gustavo A. Madero,C.T.M. El Risco,Sin calle,2350000.0,119.0,19747.9,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0829,MercadoLibre,MercadoLibre,Gustavo A. Madero,Héroes De Cerro Prieto,Denarios 121,3750000.0,293.0,12798.63,6.0,5.0,0.83,19.472,-99.09,938.42,1950.72
+GAM-CASAS-0830,MercadoLibre,MercadoLibre,Gustavo A. Madero,San Juan De Aragón I Sección,AV 527 133,6200000.0,320.0,19375.0,4.0,4.0,1.0,19.458,-99.082,839.51,973.46
+GAM-CASAS-0831,MercadoLibre,MercadoLibre,Gustavo A. Madero,Puno,Sin calle,11000000.0,236.0,46610.17,4.0,3.0,0.75,19.487,-99.129,474.63,439.44
+GAM-CASAS-0832,MercadoLibre,MercadoLibre,Gustavo A. Madero,Torres Lindavista,Sin calle,18800000.0,480.0,39166.67,5.0,4.0,0.8,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0833,MercadoLibre,MercadoLibre,Gustavo A. Madero,Porto Alegre SN,Sin calle,14900000.0,600.0,24833.33,2.0,3.0,1.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0834,MercadoLibre,MercadoLibre,Gustavo A. Madero,San Juan De Aragón III Secc,Av. 611 133,5990000.0,370.0,16189.19,8.0,5.0,0.62,19.458,-99.082,839.51,973.46
+GAM-CASAS-0835,MercadoLibre,MercadoLibre,Gustavo A. Madero,Guadalupe Tepeyac,Martha 64,17999996.0,504.0,35714.28,8.0,9.0,1.12,19.469,-99.117,742.24,779.41
+GAM-CASAS-0836,MercadoLibre,MercadoLibre,Gustavo A. Madero,Martha,Sin calle,17999999.0,504.0,35714.28,8.0,9.0,1.12,19.482,-99.115,544.73,340.03
+GAM-CASAS-0837,MercadoLibre,MercadoLibre,Gustavo A. Madero,Delia,Sin calle,8900000.0,335.0,26567.16,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0838,MercadoLibre,MercadoLibre,Gustavo A. Madero,Tepeyac Insurgentes,Unión 200,10190000.0,237.0,42995.78,4.0,3.0,0.75,19.483,-99.122,385.17,460.19
+GAM-CASAS-0839,MercadoLibre,MercadoLibre,Gustavo A. Madero,Guadalupe Tepeyac,Martha 64,17999997.0,504.0,35714.28,8.0,9.0,1.12,19.469,-99.117,742.24,779.41
+GAM-CASAS-0840,MercadoLibre,MercadoLibre,Gustavo A. Madero,Guadalupe Tepeyac,Martha 64,17999998.0,504.0,35714.28,8.0,9.0,1.12,19.469,-99.117,742.24,779.41
+GAM-CASAS-0841,MercadoLibre,MercadoLibre,Gustavo A. Madero,Guadalupe Tepeyac,Martha 64,18000000.0,504.0,35714.29,8.0,9.0,1.12,19.469,-99.117,742.24,779.41
+GAM-CASAS-0842,MercadoLibre,MercadoLibre,Gustavo A. Madero,PERNAMBUCO,Sin calle,27000000.0,709.0,38081.81,5.0,6.0,1.2,19.483,-99.13,569.36,390.42
+GAM-CASAS-0843,MercadoLibre,MercadoLibre,Gustavo A. Madero,Ramiriqui,Sin calle,7000000.0,171.0,40935.67,2.0,3.0,1.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0844,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lindavista Norte,Cali 798,18000000.0,519.0,34682.08,5.0,2.0,0.4,19.488,-99.128,458.45,485.77
+GAM-CASAS-0845,MercadoLibre,MercadoLibre,Gustavo A. Madero,Castillo Chico,Sin calle,3100000.0,240.0,12916.67,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0846,MercadoLibre,MercadoLibre,Gustavo A. Madero,Ampliación Mártires De Río Blanco,Sin calle,5500000.0,193.0,28497.41,4.0,6.0,1.5,19.468,-99.122,1188.39,1071.46
+GAM-CASAS-0847,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lindavista Norte,Sin calle,13700000.0,417.0,32853.72,3.0,3.0,1.0,19.488,-99.128,458.45,485.77
+GAM-CASAS-0848,MercadoLibre,MercadoLibre,Gustavo A. Madero,Acueducto De Guadalupe,Cda. Av. Acueducto 842,6250000.0,272.0,22977.94,6.0,2.0,0.33,19.528,-99.141,983.39,2339.6
+GAM-CASAS-0849,MercadoLibre,MercadoLibre,Gustavo A. Madero,Gustavo A. Madero,Gertrudis Sánchez 1a Sección,6800000.0,421.0,16152.02,2.0,2.0,1.0,19.468,-99.098,305.65,1218.72
+GAM-CASAS-0850,MercadoLibre,MercadoLibre,Gustavo A. Madero,Guadalupe Insurgentes,Excelsior 239,5740000.0,277.0,20722.02,5.0,4.0,0.8,19.474,-99.121,544.74,846.0
+GAM-CASAS-0851,MercadoLibre,MercadoLibre,Gustavo A. Madero,Granjas Modernas,Sin calle,10500000.0,333.0,31531.53,7.0,3.0,0.43,19.478,-99.102,867.63,849.82
+GAM-CASAS-0852,MercadoLibre,MercadoLibre,Gustavo A. Madero,Norte 86,Sin calle,5900000.0,270.0,21851.85,6.0,4.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0853,MercadoLibre,MercadoLibre,Gustavo A. Madero,Cuchilla Del Tesoro,Casa EN Venta Cuchilla DEL Tesoro Poniente  6 Gustavo A. Madero,6550000.0,200.0,32750.0,5.0,3.0,0.6,19.455,-99.058,1375.5,3181.19
+GAM-CASAS-0854,MercadoLibre,MercadoLibre,Gustavo A. Madero,Santa Isabel Tola,Cacama #9,25000000.0,560.0,44642.86,13.0,7.0,0.54,19.492,-99.118,305.63,1212.07
+GAM-CASAS-0855,MercadoLibre,MercadoLibre,Gustavo A. Madero,Norte 84,Sin calle,6250000.0,322.0,19409.94,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0856,MercadoLibre,MercadoLibre,Gustavo A. Madero,Chalma De Guadalupe,San Luis Potosí Lt 1183 - Mz 85,5000000.0,250.0,20000.0,4.0,2.0,0.5,19.552,-99.145,3558.24,1242.19
+GAM-CASAS-0857,MercadoLibre,MercadoLibre,Gustavo A. Madero,San Pedro El Chico,Sin calle,6000000.0,274.0,21897.81,4.0,2.0,0.5,19.472,-99.098,305.65,1112.64
+GAM-CASAS-0858,MercadoLibre,MercadoLibre,Gustavo A. Madero,Gustavo A. Madero,Avenida Montiel Esq. Con Entre Coquinbo Y Curazao,14000000.0,298.0,46979.87,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0859,MercadoLibre,MercadoLibre,Gustavo A. Madero,Educadores Mexicanos,Sin calle,6500000.0,207.0,31400.97,4.0,2.0,0.5,19.515,-99.132,1131.54,1488.9
+GAM-CASAS-0860,MercadoLibre,MercadoLibre,Gustavo A. Madero,Nueva Tenochtitlan,Sin calle,4600000.0,297.0,15488.22,1.0,1.0,1.0,19.468,-99.128,1528.22,565.45
+GAM-CASAS-0861,MercadoLibre,MercadoLibre,Gustavo A. Madero,Santa Isabel Tola,Sin calle,15000000.0,252.0,59523.81,3.0,3.0,1.0,19.492,-99.118,305.63,1212.07
+GAM-CASAS-0862,MercadoLibre,MercadoLibre,Gustavo A. Madero,Exescuela De Tiro,Chelines 8,2825000.0,120.0,23541.67,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0863,MercadoLibre,MercadoLibre,Gustavo A. Madero,Santa María Ticoman,15 De Septiembre,9405000.0,459.0,20490.2,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0864,MercadoLibre,MercadoLibre,Gustavo A. Madero,Gustavo A. Madero,Héroes De Chapultepec,7500000.0,426.0,17605.63,8.0,3.0,0.38,19.475,-99.105,764.1,468.73
+GAM-CASAS-0865,MercadoLibre,MercadoLibre,Gustavo A. Madero,Ampliación Casas Alemán,Sin calle,5500000.0,195.0,28205.13,1.0,1.0,1.0,19.4746,-99.0885,1128.77,2047.88
+GAM-CASAS-0866,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lindavista,Pernambuco 722,26000000.0,612.0,42483.66,5.0,6.0,1.2,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0867,MercadoLibre,MercadoLibre,Gustavo A. Madero,Ayacucho,Sin calle,22000000.0,400.0,55000.0,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0868,MercadoLibre,MercadoLibre,Gustavo A. Madero,Del Obrero,Sin calle,5500000.0,250.0,22000.0,5.0,5.0,1.0,19.482,-99.108,305.64,526.37
+GAM-CASAS-0869,MercadoLibre,MercadoLibre,Gustavo A. Madero,Venta Casa En La Colonia Cocoyotes,Sin calle,3100000.0,240.0,12916.67,3.0,2.0,0.67,19.559,-99.132,4266.96,333.42
+GAM-CASAS-0870,MercadoLibre,MercadoLibre,Gustavo A. Madero,Pernambuco,Sin calle,26000000.0,570.0,45614.04,6.0,3.0,0.5,19.483,-99.13,569.36,390.42
+GAM-CASAS-0871,MercadoLibre,MercadoLibre,Gustavo A. Madero,Caracas,Sin calle,17000000.0,325.0,52307.69,5.0,4.0,0.8,19.482,-99.115,544.73,340.03
+GAM-CASAS-0872,MercadoLibre,MercadoLibre,Gustavo A. Madero,Coquimbo,Sin calle,22800000.0,750.0,30400.0,5.0,2.0,0.4,19.487,-99.127,305.63,350.4
+GAM-CASAS-0873,MercadoLibre,MercadoLibre,Gustavo A. Madero,Carolina,Sin calle,6950000.0,343.0,20262.39,11.0,6.0,0.55,19.482,-99.115,544.73,340.03
+GAM-CASAS-0874,MercadoLibre,MercadoLibre,Gustavo A. Madero,Sardonia,Sin calle,8500000.0,246.0,34552.85,4.0,4.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0875,MercadoLibre,MercadoLibre,Gustavo A. Madero,Pascual Ortiz Rubio,Sin calle,5200000.0,192.0,27083.33,4.0,4.0,1.0,19.482,-99.105,569.37,372.29
+GAM-CASAS-0876,MercadoLibre,MercadoLibre,Gustavo A. Madero,Prof. Pablo Moreno,Sin calle,3300000.0,240.0,13750.0,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0877,MercadoLibre,MercadoLibre,Gustavo A. Madero,Atoyac,Sin calle,4495000.0,456.0,9857.46,6.0,2.0,0.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0878,MercadoLibre,MercadoLibre,Gustavo A. Madero,Estrella,Sin calle,6450000.0,193.0,33419.69,5.0,3.0,0.6,19.479,-99.117,152.82,260.43
+GAM-CASAS-0879,MercadoLibre,MercadoLibre,Gustavo A. Madero,Gustavo A. Madero,Cuautepec Barrio Alto,3150000.0,108.0,29166.67,3.0,1.0,0.33,19.558,-99.129,3996.3,628.68
+GAM-CASAS-0880,MercadoLibre,MercadoLibre,Gustavo A. Madero,Estrella,Prolongación De Turquesa 33,7800000.0,368.0,21195.65,5.0,4.0,0.8,19.479,-99.117,152.82,260.43
+GAM-CASAS-0881,MercadoLibre,MercadoLibre,Gustavo A. Madero,Puerto Madero,Sin calle,5750000.0,462.0,12445.89,14.0,9.0,0.64,19.482,-99.115,544.73,340.03
+GAM-CASAS-0882,MercadoLibre,MercadoLibre,Gustavo A. Madero,Constitución De La República,Sin calle,4200000.0,218.0,19266.06,4.0,3.0,0.75,19.48,-99.095,1229.3,1148.17
+GAM-CASAS-0883,MercadoLibre,MercadoLibre,Gustavo A. Madero,Alicia,Sin calle,1240000.0,284.0,4366.2,3.0,4.0,1.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0884,MercadoLibre,MercadoLibre,Gustavo A. Madero,Guadalupe Tepeyac,Alicia 112B,6286000.0,284.0,22133.8,5.0,5.0,1.0,19.469,-99.117,742.24,779.41
+GAM-CASAS-0885,MercadoLibre,MercadoLibre,Gustavo A. Madero,Norte 84,Sin calle,6250000.0,322.0,19409.94,6.0,4.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0886,MercadoLibre,MercadoLibre,Gustavo A. Madero,San Juan De Aragón VI Sección,Sin calle,6500000.0,200.0,32500.0,4.0,1.0,0.25,19.458,-99.082,839.51,973.46
+GAM-CASAS-0887,MercadoLibre,MercadoLibre,Gustavo A. Madero,Cienfuegos,Sin calle,12600000.0,575.0,21913.04,3.0,3.0,1.0,19.484,-99.128,333.56,168.09
+GAM-CASAS-0888,MercadoLibre,MercadoLibre,Gustavo A. Madero,Arroyo De Los Ahuehuetes,Sin calle,9450000.0,369.0,25609.76,5.0,4.0,0.8,19.535,-99.135,1969.84,2181.3
+GAM-CASAS-0889,MercadoLibre,MercadoLibre,Gustavo A. Madero,Pedro Armendariz,Sin calle,4300000.0,203.0,21182.27,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0890,MercadoLibre,MercadoLibre,Gustavo A. Madero,Vallejo,Insurgentes Norte 1099,17790000.0,1005.0,17701.49,3.0,4.0,1.33,19.472,-99.141,983.44,502.67
+GAM-CASAS-0891,MercadoLibre,MercadoLibre,Gustavo A. Madero,Casa EN Venta EN Gustavo A. Madero,Sin calle,1944000.0,170.0,11435.29,5.0,5.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0892,MercadoLibre,MercadoLibre,Gustavo A. Madero,Managua,Sin calle,10300000.0,240.0,42916.67,4.0,3.0,0.75,19.488,-99.126,349.67,457.82
+GAM-CASAS-0893,MercadoLibre,MercadoLibre,Gustavo A. Madero,Zona Escolar,Sin calle,6300000.0,487.0,12936.34,4.0,4.0,1.0,19.542,-99.135,2661.31,1779.12
+GAM-CASAS-0894,MercadoLibre,MercadoLibre,Gustavo A. Madero,C. Riobamba,Sin calle,25000000.0,492.0,50813.01,3.0,2.0,0.67,19.486,-99.128,333.56,287.5
+GAM-CASAS-0895,MercadoLibre,MercadoLibre,Gustavo A. Madero,Santa Rosa,Av. 3-A 12,28500000.0,737.0,38670.28,5.0,2.0,0.4,19.522,-99.16,1587.7,2615.02
+GAM-CASAS-0896,MercadoLibre,MercadoLibre,Gustavo A. Madero,Managua,Sin calle,25000000.0,581.0,43029.26,4.0,4.0,1.0,19.488,-99.126,349.67,457.82
+GAM-CASAS-0897,MercadoLibre,MercadoLibre,Gustavo A. Madero,Santa Isabel Tola,Colchahuac 79,3500000.0,162.0,21604.94,4.0,4.0,1.0,19.492,-99.118,305.63,1212.07
+GAM-CASAS-0898,MercadoLibre,MercadoLibre,Gustavo A. Madero,Residencial Zacatenco,Av. Insurgentes Nte. 153,2200000.0,160.0,13750.0,4.0,4.0,1.0,19.506,-99.124,638.64,1802.99
+GAM-CASAS-0899,MercadoLibre,MercadoLibre,Gustavo A. Madero,Tepeyac,Sin calle,4350000.0,122.0,35655.74,4.0,2.0,0.5,19.469,-99.117,742.24,779.41
+GAM-CASAS-0900,MercadoLibre,MercadoLibre,Gustavo A. Madero,Cuautepec Alto Centro,C. Apango 48,4950000.0,220.0,22500.0,2.0,1.0,0.5,19.555,-99.128,3661.42,805.76
+GAM-CASAS-0901,MercadoLibre,MercadoLibre,Gustavo A. Madero,La Purísima Ticoman,TUXTEPEX 35,6550000.0,262.0,25000.0,,,,19.482,-99.115,544.73,340.03
+GAM-CASAS-0902,MercadoLibre,MercadoLibre,Gustavo A. Madero,Maximino Avila Camacho,Nte. 1 - 300-C,3600000.0,134.0,26865.67,6.0,2.0,0.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0903,MercadoLibre,MercadoLibre,Gustavo A. Madero,Cuchilla Del Tesoro,Pte. 6 39,4998000.0,400.0,12495.0,5.0,3.0,0.6,19.455,-99.058,1375.5,3181.19
+GAM-CASAS-0904,MercadoLibre,MercadoLibre,Gustavo A. Madero,Colonia Lindavista Vallejo II Sección,Callao 773 Lt. 1 Mz. 109,24000000.0,1381.0,17378.71,22.0,11.0,0.5,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0905,MercadoLibre,MercadoLibre,Gustavo A. Madero,Boca Del Río,Sin calle,7800000.0,492.0,15853.66,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0906,MercadoLibre,MercadoLibre,Gustavo A. Madero,Camino De La Prosperidad,Sin calle,4650000.0,420.0,11071.43,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0907,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lindavista Norte,Sin calle,32800000.0,1390.0,23597.12,7.0,9.0,1.29,19.488,-99.128,458.45,485.77
+GAM-CASAS-0908,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lindavista Norte,Sin calle,35700000.0,1300.0,27461.54,4.0,5.0,1.25,19.488,-99.128,458.45,485.77
+GAM-CASAS-0909,MercadoLibre,MercadoLibre,Gustavo A. Madero,Caracas Norte,Sin calle,16800000.0,434.0,38709.68,4.0,4.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0910,MercadoLibre,MercadoLibre,Gustavo A. Madero,Nueva Atzacoalco,Sin calle,4284000.0,161.0,26608.7,3.0,2.0,0.67,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0911,MercadoLibre,MercadoLibre,Gustavo A. Madero,Nueva Atzacoalco,Sin calle,4284000.0,161.0,26608.7,2.0,2.0,1.0,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0912,MercadoLibre,MercadoLibre,Gustavo A. Madero,El Coyol 2,Calle 317 317,4200000.0,136.0,30882.35,3.0,1.0,0.33,19.482,-99.078,2027.76,2791.67
+GAM-CASAS-0913,MercadoLibre,MercadoLibre,Gustavo A. Madero,San Francisco De Asís,Sin calle,4550000.0,373.0,12198.39,14.0,12.0,0.86,19.482,-99.115,544.73,340.03
+GAM-CASAS-0914,MercadoLibre,MercadoLibre,Gustavo A. Madero,Colonia Lindavista Norte,Managua 698,11000000.0,276.0,39855.07,4.0,3.0,0.75,19.488,-99.128,458.45,485.77
+GAM-CASAS-0915,MercadoLibre,MercadoLibre,Gustavo A. Madero,Corona,Sin calle,11899000.0,425.0,27997.65,6.0,4.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0916,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lindavista,Salaverry 912,16000000.0,531.0,30131.83,5.0,4.0,0.8,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0917,MercadoLibre,MercadoLibre,Gustavo A. Madero,Ambato,Sin calle,8700000.0,397.0,21914.36,3.0,2.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0918,MercadoLibre,MercadoLibre,Gustavo A. Madero,Norte 74,Sin calle,7900000.0,320.0,24687.5,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0919,MercadoLibre,MercadoLibre,Gustavo A. Madero,MARIA GREVER,Sin calle,4500000.0,136.0,33088.24,6.0,3.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0920,MercadoLibre,MercadoLibre,Gustavo A. Madero,Pernambuco,Sin calle,8700000.0,300.0,29000.0,3.0,3.0,1.0,19.483,-99.13,569.36,390.42
+GAM-CASAS-0921,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lima,Sin calle,42000000.0,863.0,48667.44,,6.0,,19.482,-99.115,544.73,340.03
+GAM-CASAS-0922,MercadoLibre,MercadoLibre,Gustavo A. Madero,Pernambuco,Sin calle,17950000.0,407.0,44103.19,3.0,3.0,1.0,19.483,-99.13,569.36,390.42
+GAM-CASAS-0923,MercadoLibre,MercadoLibre,Gustavo A. Madero,Cuchilla La Joya,Norte 66 A,5000000.0,179.0,27932.96,4.0,2.0,0.5,19.498,-99.128,806.1,1365.48
+GAM-CASAS-0924,MercadoLibre,MercadoLibre,Gustavo A. Madero,Gabriel Hernández,Sin calle,5300000.0,264.0,20075.76,4.0,2.0,0.5,19.498,-99.105,1806.51,1413.58
+GAM-CASAS-0925,MercadoLibre,MercadoLibre,Gustavo A. Madero,Huancayo,Sin calle,8600000.0,273.0,31501.83,3.0,2.0,0.67,19.484,-99.127,237.32,63.87
+GAM-CASAS-0926,MercadoLibre,MercadoLibre,Gustavo A. Madero,Panamericana,Nte. 3,5750000.0,256.0,22460.94,4.0,5.0,1.25,19.483,-99.139,711.96,462.76
+GAM-CASAS-0927,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lindavista Vallejo I Sección,Sin calle,7600000.0,160.0,47500.0,7.0,4.0,0.57,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0928,MercadoLibre,MercadoLibre,Gustavo A. Madero,Huacho,Sin calle,11000000.0,347.0,31700.29,3.0,5.0,1.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0929,MercadoLibre,MercadoLibre,Gustavo A. Madero,Villa Gustavo A. Madero,Sin calle,9500000.0,560.0,16964.29,,3.0,,19.482,-99.115,544.73,340.03
+GAM-CASAS-0930,MercadoLibre,MercadoLibre,Gustavo A. Madero,OTILIA,Sin calle,9500000.0,349.0,27220.63,5.0,3.0,0.6,19.482,-99.115,544.73,340.03
+GAM-CASAS-0931,MercadoLibre,MercadoLibre,Gustavo A. Madero,Tepeyac Insurgentes,Sin calle,6000000.0,210.0,28571.43,4.0,2.0,0.5,19.483,-99.122,385.17,460.19
+GAM-CASAS-0932,MercadoLibre,MercadoLibre,Gustavo A. Madero,596,Avenida Fortuna,6990000.0,241.0,29004.15,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0933,MercadoLibre,MercadoLibre,Gustavo A. Madero,Gertrudis Sánchez II Secc,Nte 90 5911,4800000.0,200.0,24000.0,3.0,3.0,1.0,19.468,-99.098,305.65,1218.72
+GAM-CASAS-0934,MercadoLibre,MercadoLibre,Gustavo A. Madero,Sierra Madre Oriental,Sin calle,4550000.0,163.0,27914.11,4.0,2.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0935,MercadoLibre,MercadoLibre,Gustavo A. Madero,Puerto Manzanillo,Sin calle,690000.0,576.0,1197.92,4.0,3.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0936,MercadoLibre,MercadoLibre,Gustavo A. Madero,San Felipe De Jesús,Cda Emiliano Zapata 20,4325000.0,213.0,20305.16,1.0,3.0,3.0,19.5015,-99.0735,4233.87,3706.19
+GAM-CASAS-0937,MercadoLibre,MercadoLibre,Gustavo A. Madero,Venta DE Casa EN  Gustavo  A Madero Colonia Lindaviista,Sin calle,10900000.0,514.0,21206.23,8.0,6.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0938,MercadoLibre,MercadoLibre,Gustavo A. Madero,Gustavo A. Madero,Cuautepec Barrio Alto,5600000.0,350.0,16000.0,4.0,2.0,0.5,19.558,-99.129,3996.3,628.68
+GAM-CASAS-0939,MercadoLibre,MercadoLibre,Gustavo A. Madero,Ciudad De México,Sin calle,8500000.0,204.0,41666.67,3.0,1.0,0.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0940,MercadoLibre,MercadoLibre,Gustavo A. Madero,Pueblo Santiago Atzacoalco,Privada Almacenes 14,4200000.0,312.0,13461.54,7.0,4.0,0.57,19.502,-99.105,2062.18,1858.02
+GAM-CASAS-0941,MercadoLibre,MercadoLibre,Gustavo A. Madero,15 De Agosto,Albino Zertuche 20,5600000.0,185.0,30270.27,5.0,3.0,0.6,19.483,-99.102,902.54,358.75
+GAM-CASAS-0942,MercadoLibre,MercadoLibre,Gustavo A. Madero,15 De Agosto,Albino Zertuche 24,6100000.0,185.0,32972.97,5.0,3.0,0.6,19.483,-99.102,902.54,358.75
+GAM-CASAS-0943,MercadoLibre,MercadoLibre,Gustavo A. Madero,Puerto Cozumel,Sin calle,4150000.0,163.0,25460.12,2.0,1.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0944,MercadoLibre,MercadoLibre,Gustavo A. Madero,Santa Isabel Tola,Av. Insurgentes Nte. 3885,1579000.0,90.0,17544.44,2.0,2.0,1.0,19.492,-99.118,305.63,1212.07
+GAM-CASAS-0945,MercadoLibre,MercadoLibre,Gustavo A. Madero,Sucre Norte S/n,Sin calle,15500000.0,350.0,44285.71,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0946,MercadoLibre,MercadoLibre,Gustavo A. Madero,Villa Nezahualcóyotl,Sin calle,5338750.0,220.0,24267.05,5.0,4.0,0.8,19.482,-99.115,544.73,340.03
+GAM-CASAS-0947,MercadoLibre,MercadoLibre,Gustavo A. Madero,MANUEL MORALES,Sin calle,9590000.0,429.0,22354.31,8.0,4.0,0.5,19.482,-99.115,544.73,340.03
+GAM-CASAS-0948,MercadoLibre,MercadoLibre,Gustavo A. Madero,Tepeyac Insurgentes,Sin calle,5995000.0,200.0,29975.0,4.0,3.0,0.75,19.483,-99.122,385.17,460.19
+GAM-CASAS-0949,MercadoLibre,MercadoLibre,Gustavo A. Madero,Riobamba,Sin calle,35890000.0,609.0,58932.68,4.0,4.0,1.0,19.486,-99.128,333.56,287.5
+GAM-CASAS-0950,MercadoLibre,MercadoLibre,Gustavo A. Madero,Cienfuegos,Sin calle,8300000.0,357.0,23249.3,5.0,2.0,0.4,19.484,-99.128,333.56,168.09
+GAM-CASAS-0951,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lindavista Norte,Chiclayo 619,8790000.0,241.0,36473.03,8.0,5.0,0.62,19.488,-99.128,458.45,485.77
+GAM-CASAS-0952,MercadoLibre,MercadoLibre,Gustavo A. Madero,Aragón,Sin calle,12988000.0,562.0,23110.32,12.0,9.0,0.75,19.482,-99.115,544.73,340.03
+GAM-CASAS-0953,MercadoLibre,MercadoLibre,Gustavo A. Madero,Norte 26,Sin calle,8650000.0,247.0,35020.24,3.0,4.0,1.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0954,MercadoLibre,MercadoLibre,Gustavo A. Madero,7 De Noviembre,Norte 60 A,5900000.0,180.0,32777.78,6.0,3.0,0.5,19.475,-99.105,764.1,468.73
+GAM-CASAS-0955,MercadoLibre,MercadoLibre,Gustavo A. Madero,Cuautepec Barrio Alto,Francisco I Madero Mz 38 Lt 10,3690000.0,184.0,20054.35,4.0,2.0,0.5,19.558,-99.129,3996.3,628.68
+GAM-CASAS-0956,MercadoLibre,MercadoLibre,Gustavo A. Madero,La Malinche,Sin calle,4200000.0,287.0,14634.15,2.0,2.0,1.0,19.465,-99.102,594.2,1045.1
+GAM-CASAS-0957,MercadoLibre,MercadoLibre,Gustavo A. Madero,La Joya,Sin calle,7600000.0,320.0,23750.0,3.0,2.0,0.67,19.498,-99.128,806.1,1365.48
+GAM-CASAS-0958,MercadoLibre,MercadoLibre,Gustavo A. Madero,Buenavista,Sin calle,13850000.0,530.0,26132.08,4.0,3.0,0.75,19.498,-99.125,938.36,1540.18
+GAM-CASAS-0959,MercadoLibre,MercadoLibre,Gustavo A. Madero,Gustavo A. Madero,25 De Julio,3250000.0,250.0,13000.0,6.0,2.0,0.33,19.498,-99.082,3552.56,2739.97
+GAM-CASAS-0960,MercadoLibre,MercadoLibre,Gustavo A. Madero,Puerto Papantla,Sin calle,3580000.0,192.0,18645.83,5.0,2.0,0.4,19.482,-99.115,544.73,340.03
+GAM-CASAS-0961,MercadoLibre,MercadoLibre,Gustavo A. Madero,Estado De Baja California Sur,Sin calle,4600000.0,373.0,12332.44,,5.0,,19.482,-99.115,544.73,340.03
+GAM-CASAS-0962,MercadoLibre,MercadoLibre,Gustavo A. Madero,Santa Isabel Tola,Huitzilihuitl 9,30000000.0,1320.0,22727.27,2.0,7.0,3.5,19.492,-99.118,305.63,1212.07
+GAM-CASAS-0963,MercadoLibre,MercadoLibre,Gustavo A. Madero,Pedernal,Sin calle,8300000.0,536.0,15485.07,11.0,9.0,0.82,19.482,-99.115,544.73,340.03
+GAM-CASAS-0964,MercadoLibre,MercadoLibre,Gustavo A. Madero,S/C S/N,Sin calle,6600000.0,350.0,18857.14,6.0,5.0,0.83,19.482,-99.115,544.73,340.03
+GAM-CASAS-0965,MercadoLibre,MercadoLibre,Gustavo A. Madero,Nueva Atzacoalco,C. 307,8950000.0,343.0,26093.29,3.0,5.0,1.67,19.492,-99.098,1833.79,1002.55
+GAM-CASAS-0966,MercadoLibre,MercadoLibre,Gustavo A. Madero,Lindavista,Cda. De Otavalo Calle,10000000.0,280.0,35714.29,3.0,2.0,0.67,19.484,-99.1285,383.37,220.42
+GAM-CASAS-0967,MercadoLibre,MercadoLibre,Gustavo A. Madero,Nicandro Castillo,Sin calle,2990000.0,157.0,19044.59,5.0,2.0,0.4,19.482,-99.115,544.73,340.03
+GAM-CASAS-0968,MercadoLibre,MercadoLibre,Gustavo A. Madero,La Pastora,Sin calle,4900000.0,167.0,29341.32,3.0,2.0,0.67,19.538,-99.128,2372.61,2010.39
+GAM-CASAS-0969,MercadoLibre,MercadoLibre,Gustavo A. Madero,Gertrudis Sánchez III Secc,Nte 82-B,7199000.0,250.0,28796.0,4.0,4.0,1.0,19.468,-99.098,305.65,1218.72
+GAM-CASAS-0970,MercadoLibre,MercadoLibre,Gustavo A. Madero,Barras,Sin calle,10000000.0,428.0,23364.49,6.0,4.0,0.67,19.482,-99.115,544.73,340.03
+GAM-CASAS-0971,MercadoLibre,MercadoLibre,Gustavo A. Madero,Costas Del Mediterráneo,Uruyen 55,15000000.0,300.0,50000.0,3.0,4.0,1.33,19.482,-99.115,544.73,340.03
+GAM-CASAS-0972,MercadoLibre,MercadoLibre,Gustavo A. Madero,San Juan De Aragón II Secc,Sin calle,8400000.0,360.0,23333.33,4.0,2.0,0.5,19.458,-99.082,839.51,973.46
+GAM-CASAS-0973,MercadoLibre,MercadoLibre,Gustavo A. Madero,San Bartolo Atepehuacan,Cda. De Otavalo 154,10500000.0,480.0,21875.0,6.0,5.0,0.83,19.485,-99.135,555.97,258.6
+GAM-CASAS-0974,MercadoLibre,MercadoLibre,Gustavo A. Madero,Instituto Politécnico Nacional,Sin calle,5950000.0,200.0,29750.0,3.0,3.0,1.0,19.482,-99.115,544.73,340.03
+GAM-CASAS-0975,MercadoLibre,MercadoLibre,Gustavo A. Madero,Guadalupe Tepeyac,Estela 165,4900000.0,145.0,33793.1,3.0,2.0,0.67,19.469,-99.117,742.24,779.41
+GAM-CASAS-0976,MercadoLibre,MercadoLibre,Gustavo A. Madero,Casas Alemán,Puerto Progreso 149B,2800000.0,129.0,21705.43,5.0,3.0,0.6,19.4746,-99.0885,1128.77,2047.88
